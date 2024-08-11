@@ -1,0 +1,175 @@
+{
+    "id": 1,
+    "date": "2024年8月第2周",
+    "title": "AI突破与奥运准备",
+    "sections": {
+      "tech": {
+        "id": "tech",
+        "name": "科技",
+        "articles": [
+          {
+            "title": "诺贝尔物理学奖获得者李政道逝世，享年98岁",
+            "image": "https://imagecloud.thepaper.cn/thepaper/image/316/786/702.jpg",
+            "content": "2024年8月5日,著名物理学家李政道教授在旧金山以98岁高龄时去世了。李政道教授是出生在上海的华裔美籍科学家,他在26岁时就和杨振宁教授一起发现了宇称不守恒定律,这个重大发现让他们在31岁时就获得了诺贝尔物理学奖。李教授毕业于美国芝加哥大学,之后在多所顶尖大学任教,包括哥伦比亚大学和普林斯顿大学。他一生都在探索物理学的奥秘,在粒子物理和宇宙学等领域做出了许多开创性的贡献。",
+            "link": "https://m.thepaper.cn/newsDetail_forward_28311328"
+          },
+          {
+            "title": "马斯克称 Neuralink 为第二位试验患者植入了大脑芯片",
+            "image": "https://www.reuters.com/resizer/v2/27ZMES3GUVPTVE5QVBAKRO3UEY.jpg?auth=4f6c39de37a4b8c2c5c6c24923029ceb22b7cd805a754308531cf5ff8b312a8d&width=1080&quality=80",
+            "content": "大脑芯片旨在让瘫痪患者能够通过独自思考来使用数字设备。该设备已使第一位患者能够玩电子游戏、浏览互联网、在社交媒体上发帖以及在笔记本电脑上移动光标。",
+            "link": "https://www.reuters.com/technology/neuralink-implanted-second-trial-patient-with-brain-chip-musk-says-2024-08-04/"
+          },
+          {
+            "title": "Nvidia 的“Blackwell” B200 AI 芯片因设计缺陷而推迟生产",
+            "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/1200x800/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/11447597/acastro_180529_1777_nvidia_0002.0.jpg",
+            "content": "根据《The Verge》的报道，Nvidia 的“Blackwell” B200 AI 芯片因设计缺陷而推迟生产，预计比原计划晚至少三个月。这个延迟是由于在生产过程中“异常晚”发现的设计问题，消息来源包括一名微软员工。B200 芯片是广受欢迎且难以获取的 H100 芯片的后续产品，后者在人工智能云计算领域发挥了重要作用，使 Nvidia 成为全球最有价值的公司之一。",
+            "link": "https://www.theverge.com/2024/8/3/24212518/nvidia-ai-chip-delay-blackwell-b200-microsoft-amazon-google-openai-meta-artificial-intelligence"
+          },
+          {
+            "title": "Figure AI 公司推出了第二代人形机器人 Figure 02",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/08/BMW_Factory_View.jpeg?resize=2048,1152",
+            "content": "Figure AI 公司推出了第二代人形机器人 Figure 02，该机器人利用与 OpenAI 合作开发的先进 AI 技术，专为人类环境设计，具备自然语言对话、增强的视觉感知和灵活的手部操作能力。它已经在宝马制造公司进行了测试，并成功完成了 6.75 亿美元的融资，显示出业界对其未来发展的高度信心。",
+            "link": "https://techcrunch.com/2024/08/06/figures-new-humanoid-robot-leverages-openai-for-natural-speech-conversations/"
+          },
+          {
+            "title": "NASA称国际空间站宇航员可能被困至2025年",
+            "image": "https://i.guim.co.uk/img/media/722bd53df4f1fda29968331b3130df226c69d81e/0_0_1440_864/master/1440.jpg?width=620&dpr=2&s=none",
+            "content": "两名美国宇航员Butch Wilmore和Suni Williams原计划在国际空间站进行为期八天的任务，但由于波音Starliner飞船的技术问题，可能需要等到2025年才能返回地球。NASA正在与SpaceX讨论让宇航员乘坐Crew Dragon返回的可能性。NASA表示，如果Starliner继续被认为不安全，宇航员可能在2025年2月通过SpaceX的Crew Dragon返回地球。",
+            "link": "https://www.theguardian.com/science/article/2024/aug/07/spacex-delay-international-space-station-boeing-nasa"
+          },
+          {
+            "title": "长达18年的0.0.0.0 Day漏洞曝光，谷歌、Safari、火狐等主流浏览器面临威胁",
+            "image": "https://image.3001.net/images/20240809/1723172357_66b586056c53f62fc6501.png!small?1723172357335",
+            "content": "近日，一个名为'0.0.0.0 Day'的重大安全漏洞在网络安全社区中引发了巨大反响，该漏洞导致数百万使用 Chrome、Firefox 和 Safari 等流行浏览器的用户受到潜在攻击。同时，该漏洞还允许恶意行为者访问私人网络（特别是 '本地主机'）中设备上存储的文件、信息、凭证和其他敏感数据。",
+            "link": "https://www.freebuf.com/news/408169.html"
+          },
+          {
+            "title": "",
+            "image": "",
+            "content": "",
+            "link": ""
+          }
+        ]
+      },
+      "AI": {
+        "id": "AI",
+        "name": "人工智能",
+        "articles": [
+          {
+            "title": "人工智能芯片初创公司 Groq 获 6.4 亿美元融资，挑战英伟达。",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/08/1_byjKY2ta4_34GHPvmN9Suw.jpg",
+            "content": "Groq成功融资6.4亿美元，估值达到28亿美元，计划利用资金扩大产能并添加新模型和功能。公司开发的语言处理单元(LPU)芯片声称能以更快速度和更低能耗运行AI模型。面对Nvidia等竞争对手的强势，Groq正积极拓展企业和政府客户，同时与三星合作开发下一代芯片。",
+            "link": "https://techcrunch.com/2024/08/05/ai-chip-startup-groq-lands-640m-to-challenge-nvidia/"
+          },
+          {
+            "title": "伊隆·马斯克打造人工智能超级计算机的宏伟计划",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1239825394.jpg",
+            "content": "特斯拉的Dojo是一个专门为训练全自动驾驶（FSD）神经网络而设计的超级计算机。它是特斯拉实现全自动驾驶和推出机器人出租车计划的重要工具。特斯拉希望通过摄像头收集数据，并用Dojo进行大量的模拟和训练，使汽车能像人一样自主驾驶。Dojo的核心是特斯拉自己设计的D1芯片，这些芯片被组合在一起形成强大的计算系统。尽管目前特斯拉仍然依赖Nvidia的芯片，但Dojo的目标是减少对Nvidia的依赖，并在未来提供更高效的AI训练能力。这个系统有可能为特斯拉带来巨大的收益，包括机器人出租车和其他软件服务。",
+            "link": "https://techcrunch.com/2024/08/03/tesla-dojo-elon-musks-big-plan-to-build-an-ai-supercomputer-explained/"
+          },
+          {
+            "title": "马斯克又一次起诉openai及其创始人Sam Altman",
+            "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/1200x800/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25462007/STK155_OPEN_AI_CVirginia_C.jpg",
+            "content": "马斯克的新诉讼针对的是 OpenAI 与微软的交易以及通用人工智能的定义。",
+            "link": "https://www.theverge.com/2024/8/5/24213557/elon-musk-openai-lawsuit-sam-altman-greg-brockman-revived"
+          },
+          {
+            "title": "",
+            "image": "",
+            "content": "",
+            "link": ""
+          }
+        ]
+      },
+      "sports": {
+        "id": "sports",
+        "name": "体育",
+        "articles": [
+          {
+            "title": "巴黎奥运会收官，中国体育代表团取得境外参赛最好成绩",
+            "image": "https://pbs.twimg.com/media/GUtw6reb0AAc7kH?format=png",
+            "content": "随着最后一枚奖牌，女篮金牌被美国拿走，法国巴黎奥运随之结束。巴黎奥运会闭幕式将邀请Billie Eilish, Red Hot Chili Peppers, and Snoop Dogg等明星表演，展示洛杉矶的多元文化和好莱坞魅力,2028年奥运会将于美国洛杉矶举行。美国以40枚金牌领先奖牌榜，略胜中国。\n其中热度最高的美国男篮与法国男蓝比赛，凭借最后4分钟库里疯狂的4记三分，获得金牌。",
+            "link": "https://olympics.com/zh/paris-2024/medals"
+          }
+        ]
+      },
+      "finance": {
+        "id": "finance",
+        "name": "财经",
+        "articles": [
+          {
+            "title": "2024年8月5日，黑色星期一，世界大多数股市经历暴跌",
+            "image": "https://pbs.twimg.com/media/GUOPW6JWEAEnzKD?format=jpg&name=small",
+            "content": "日经指数8月5日开盘一度跌超2500点，日经指数暴跌 12%，创 1987 年黑色星期一崩盘以来最大跌幅。 美国股市市值已蒸发超过 1.93 万亿美元，纳斯达克指数已下跌超过 1,000 点。官员们表示，纳斯达克指数从未跌至如此低点，即使是盘中也是如此。 \n日经指数 (Nikkei Index)：简单来说,日经指数就像是日本股市的'体温计'，它反映了日本225家大公司股票的整体表现，如果日经指数上涨,说明这些公司的股票价格总体在上升,投资者对日本经济比较乐观，反之,如果日经指数下跌,则表明这些公司的股票价格总体在下降,投资者可能对日本经济持谨慎态度。",
+            "link": "https://x.com/kobeissiletter/status/1820456513908981934?s=52&t=QCsbRBvKPMI8QW-QJrEylA"
+          },
+          {
+            "title": "2024年8月5日加密货币总市值跌破2万亿美元，单日跌幅超9%",
+            "image": "",
+            "content": "据CoinGecko数据，加密货币总市值跌破2万亿美元，现报1.986万亿美元，单日跌幅达9.4%。",
+            "link": "https://www.binance.com/zh-CN/square/post/2024-08-05-2-9-11741268034058"
+          },
+          {
+            "title": "2024年财富世界500强揭晓 沃尔玛仍为全球最大公司",
+            "image": "",
+            "content": "8月5日，2024年《财富》世界500强排行榜揭晓。今年《财富》世界500强排行榜企业的营业收入总和约为41万亿美元，相当于全球GDP的三分之一，比去年略微增长了约0.1%。所有上榜公司的净利润总和同比增长2.3%，约为2.97万亿美元。其中，沃尔玛连续第十一年成为全球最大公司。亚马逊重回第二。中国的国家电网公司继续位列第三。排在第四和第五位的分别是沙特阿美和中国石化。",
+            "link": "https://weibo.com/1642634100/OqQnECGwY"
+          },
+          {
+            "title": "3363亿元！拼多多创始人黄峥，登顶中国首富。",
+            "image": "",
+            "content": "福布斯实时富豪榜2024年8月8日显示: 拼多多创始人、年仅44岁的黄峥，以469亿美元，即人民币3363亿元的财富位列全球富豪榜第27名、居中国富豪榜第一。 🥹",
+            "link": ""
+          }
+        ]
+      },
+      "climate": {
+        "id": "climate",
+        "name": "气候",
+        "articles": [
+          {
+            "title": "意大利埃博拉火山继续爆发",
+            "image": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2024/08/1336/752/GettyImages-2165187427.jpg?ve=1&tl=1",
+            "content": "意大利的埃特纳火山再次喷发，火山灰柱高达32,000英尺。这是该火山今年夏天的第五次喷发，导致西西里岛卡塔尼亚国际机场的航班延误。火山自6月底以来一直活跃，喷发活动频繁。埃特纳火山是欧洲最高的活火山之一，拥有悠久的喷发历史。",
+            "link": "https://www.foxweather.com/extreme-weather/italy-mount-etna-erupting-again"
+          },
+          {
+            "title": "日本发布史上首次最强地震警报",
+            "image": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2024/08/080924_no_megaquake_feat.jpg?w=1440&ssl=1",
+            "content": "8月8日，日本气象厅首次发布了“超大地震警报”，此前宫崎县发生了7.1级地震，导致至少16人受伤，并引发了50厘米高的小型海啸。此次地震震源位于日本南海海槽附近的海底，专家担心其可能改变该地区的应力分布，增加发生8级或以上大地震的风险。虽然短期内发生大地震的概率有所上升，但总体风险仍然不高。日本已经启动了针对南海海槽的特别地震预警系统，并建议居民保持警惕。",
+            "link": "https://www.sciencenews.org/article/japan-issued-mega-earthquake-alert"
+          }
+        ]
+      },
+      "news": {
+        "id": "news",
+        "name": "国际",
+        "articles": [
+          {
+            "title": "孟加拉国政局突变，总理官邸沦陷，哈西娜辞职后逃亡印度",
+            "image": "https://gdb.voanews.com/01000000-c0a8-0242-67d6-08dcb554b90b_cx0_cy8_cw0_w1023_r1_s.jpg",
+            "content": "孟加拉国总理哈西娜（Sheikh Hasina）星期一（8月5日）辞职并逃亡印度。在此前的几个星期以来，针对政府公职配额制度的抗议活动演变成暴力事件，逐渐成为对哈西娜15年统治的最大挑战。数千名示威者冲进她的官邸，而就在前一天，骚乱造成近100人死亡。",
+            "link": "https://www.voachinese.com/a/bangladesh-s-pm-resigns-and-flees-country-as-protesters-storm-her-residence-20240805/7730245.html"
+          },
+          {
+            "title": "乌克兰侵俄第5天，战斗危及核电站，数万人逃",
+            "image": "https://ix.cnn.io/dailygraphics/graphics/20240809-ukraine-control-map/static/media/ai2html-graphic-desktop.678f3f00.jpg",
+            "content": "乌克兰总统泽连斯基确认乌克兰军队在俄罗斯境内作战，这是乌克兰对俄罗斯库尔斯克地区的突袭行动的首次官方承认。此次行动让克里姆林宫非常尴尬，并使俄罗斯紧急应对，疏散了数万人。这次突袭标志着持续两年多的冲突的一个重要发展，乌克兰军队成功占领了部分俄罗斯领土，同时俄罗斯继续对基辅及其他乌克兰地区发动袭击，导致平民伤亡。",
+            "link": "https://www.cnn.com/2024/08/11/world/ukraine-zelensky-confirms-russian-incursion-intl/index.html"
+          }
+        ]
+      },
+      "thinking": {
+        "id": "thinking",
+        "name": "思辨",
+        "articles": [
+          {
+            "title": "乔布斯：我不在乎犯错，只在乎是否在做正确的事",
+            "image": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/qpAK9iaV2O3sPH7R9MGUheR7P5N9KeiaqEiafHLicqr6tQRSa6adjoIKNlv1rgjOFdmaoLnPpicEvL7VWlicwmicJzCjA/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1",
+            "content": "保持好奇心和创新精神,不要满足于现状。像乔布斯一样,要不断探索新事物,挑战常规思维。追求卓越,注重品质和细节。找到自己热爱的事业,并为之付出全部热情。要有远见,洞察未来趋势。勇于冒险,但也要学会从失败中吸取教训。重视团队合作,懂得欣赏和激励人才。保持开放的心态,从各个领域汲取灵感。最重要的是,要努力创造对他人和社会有意义的事物,而不仅仅追求个人利益。记住,真正的成功不仅在于取得成就,更在于如何影响和改变世界。",
+            "link": "https://mp.weixin.qq.com/s/jwzNzU3UZOjbsj888o2_Nw"
+          }
+        ]
+      }
+    }
+  }
