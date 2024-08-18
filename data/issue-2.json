@@ -1,0 +1,236 @@
+{
+    "id": 2,
+    "date": "2024年8月第3周",
+    "title": "AI突破、自动驾驶IPO、全球政经动态",
+    "sections": {
+        "tech": {
+            "id": "tech",
+            "name": "科技",
+            "articles": [
+                {
+                    "title": "xAI 发布 Grok-2 Beta:具有无与伦比推理能力、基准顶级性能和先进功能的 AI 模型",
+                    "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcQ_9C5jfOg4jImN_stbXMwkhvQgNHUPE3r9E2kEndqOJ9C-cfycLazwFUqx8bV8-oBfZNMaeD1F-8yhPwTMK0Hd2v1WFzte85sr6JODSX8AMVf12BPRPnko80d1ROzYvdOnIhLjE1uXLWWPDx74PYU348?key=zqKu_n_y84dy_k4ULJ8f9A",
+                    "content": "xAI是由埃隆·马斯克创立的一家公司，致力于开发领先的人工智能模型。最近发布的Grok-2模型在AI推理和性能方面表现出色，超越了许多顶级模型，如GPT-4 Turbo。Grok-2还包括一个精简版Grok-2 mini，适用于需要平衡计算效率和输出质量的场景。xAI计划通过企业API发布这些模型，并在未来扩展其多模态理解能力，以进一步提升AI在处理复杂数据时的表现，巩固其在AI领域的领先地位。",
+                    "link": "https://www.marktechpost.com/2024/08/15/xai-released-grok-2-beta-an-ai-model-with-unparalleled-reasoning-benchmark-topping-performance-and-advanced-capabilities/"
+                },
+                {
+                    "title": "科学家们希望，新的超级计算网络可以实现 AGI，第一个节点将在数周内上线",
+                    "image": "https://cdn.mos.cms.futurecdn.net/Hf2WjNmjuUkhoKWdKoFFok-1200-80.jpg.webp",
+                    "content": "研究人员计划通过全球范围内的超级计算机网络加速通用人工智能（AGI）的发展。SingularityNET正在构建一个多层次的认知计算网络，这些超级计算机将用于训练实现AGI的架构。该网络的首台超级计算机将于9月上线，预计到2024年底或2025年初完成建设。AGI旨在超越人类智能，跨多个领域进行推理和决策。SingularityNET还使用了开源软件框架OpenCog Hyperon来管理分布式计算集群，支持AGI的发展。",
+                    "link": "https://www.livescience.com/technology/artificial-intelligence/new-supercomputing-network-lead-to-agi-1st-node-coming-within-weeks"
+                },
+                {
+                    "title": "Google Pixel 9 Pro 是最新发布的智能手机，具备强大的 AI 功能和先进的摄影技术",
+                    "image": "https://lh3.googleusercontent.com/ZCsWcEk5dJrHZW4ot4K-Yq84mH5TZxgoIjXJN1zZfGqD9xUO-B8u3xvkTuCqeagszeUIMb8DFJCZHIa1AF650IiWb5Jyq4_tb6A=rw-e365-w3000",
+                    "content": "Google Pixel 9 Pro 是最新发布的智能手机，起价 999 美元，拥有强大的 AI 功能和出色的摄像技术。它配备 6.3 英寸和 6.8 英寸两种屏幕尺寸，搭载三摄系统和 8K 视频录制能力。内置 Gemini AI 助手和 Magic Editor 等高级编辑工具，性能由 Google Tensor G4 芯片和 16GB RAM 支持。电池续航超过 24 小时，支持卫星紧急服务和 7 年的安全更新。",
+                    "link": "https://store.google.com/us/product/pixel_9_pro?hl=en-US"
+                },
+                {
+                    "title": "日本开发出EUV光刻设新技术，耗电量降至1/10",
+                    "image": "https://cn.nikkei.com/images/2024/08/0801/0801-11-L.jpg",
+                    "content": "日本冲绳科学技术大学院大学开发了一项新技术，通过减少极紫外线（EUV）光刻设备中的反光镜数量，大幅降低了设备的耗电量和制造成本。这项技术将反光镜从10个减少到4个，使得能量传递效率提高到10%以上，耗电量降低至原来的十分之一。该大学计划与企业合作，力争在2026年开发出首台国产化设备。光刻机是一种用于半导体制造的设备，它利用光刻技术将电路图案转移到晶圆上，是芯片制造的核心工具。",
+                    "link": "https://cn.nikkei.com/industry/scienceatechnology/56318-2024-08-13-08-49-05.html"
+                },
+                {
+                    "title": "波音陷入危机，空客苦苦挣扎",
+                    "image": "https://images.wsj.net/im-986956/?width=2000&size=1.5003750937734",
+                    "content": "这家全球最大的飞机制造商曾自信地认为，今年它可以利用疫情后需求激增的机会，但现在却遭遇了令人沮丧的命运转折",
+                    "link": "https://www.wsj.com/business/airlines/airbus-boeing-jet-production-stocks-841711d7?mod=lead_feature_below_a_pos1"
+                },
+                {
+                    "title": "黑客声称窃取海量腾讯数据",
+                    "image": "",
+                    "content": "8月14日，名为“Fenice”的黑客在暗网声称拥有14亿腾讯用户的账号信息，其中包括邮箱、手机号和QQ号等敏感数据，总大小为500GB。这些数据可能是在2023年5月9日之前被获取并处理的。此前，该黑客还泄露了27亿美国用户的社保信息。",
+                    "link": ""
+                },
+                {
+                    "title": "GitHub又挂了",
+                    "image": "https://github.githubassets.com/assets/octocats-656a28e14a2f.webp",
+                    "content": "GitHub 是全球领先的开发者平台，拥有超过一亿用户，提供协作环境支持开源社区和代码管理。其主要功能包括 GitHub Copilot 提升编码效率，GitHub Actions 自动化工作流，和 GitHub Advanced Security 提供代码安全保障。GitHub 还支持项目管理、团队协作以及开源社区发展，是初学者到企业级开发者的理想选择。总结而言，GitHub 是一个集成开发工具和服务的生态系统，旨在提升生产力和安全性。",
+                    "link": "https://github.com/"
+                },
+                {
+                    "title": "这篇文章讲述了美国第一架“空军一号”——艾森豪威尔总统的专机 Columbine II 的历史及其修复过程",
+                    "image": "https://img.atlasobscura.com/Gc0gkVwo-6RkG6n6TX3khIYkPQTUel-y_AjbKtOuDBI/rt:fit/w:1280/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy82OWM5NGU2MS1j/NjVlLTQ0ODUtOGQy/ZS0yNDQyZTVmZWZh/ZGRhMjFkYWNlMWI0/YmQ3ZWJkYTVfU3Rv/bHpmdXMgYW5kIGFp/cmNyYWZ0IENvbHVt/YmluZSBJSV8gSEUx/V1hULmpwZw.jpg",
+                    "content": "这篇文章介绍了美国第一架“空军一号”——艾森豪威尔总统的专机 Columbine II 的历史及修复过程。该飞机是1953年首架使用“空军一号”呼号的专机，后被遗弃多年。2014年，航空企业家发现并决定修复这架飞机，修复工作包括更换发动机和更新系统，预计耗资1200万美元。修复完成后，Columbine II 将向公众开放，成为重要的历史遗迹。",
+                    "link": "https://www.atlasobscura.com/articles/first-air-force-one"
+                }
+            ]
+        },
+        "finance": {
+            "id": "finance",
+            "name": "财经",
+            "articles": [
+                {
+                    "title": "中国自动驾驶汽车初创公司文远知行寻求美国 IPO，估值 50 亿美元",
+                    "image": "https://techcrunch.com/wp-content/uploads/2021/05/WeRide-Robotaxi-fleet.jpg",
+                    "content": "WeRide是一家中国自动驾驶公司，正准备在美国上市，目标估值高达50.2亿美元，计划通过IPO和私募融资约4亿美元。WeRide在多个国家运营自动驾驶技术，包括机器人出租车和货运车辆。尽管收入有所下降，WeRide计划将IPO资金用于研发、车队运营和市场扩展。此次上市是继Zeekr之后又一个中国公司在美上市的重大行动。",
+                    "link": "https://techcrunch.com/2024/08/12/chinas-autonomous-vehicle-startup-weride-seeks-us-ipo-at-5b-valuation/"
+                },
+                {
+                    "title": "近期，各地纷纷裁撤政府招商部门",
+                    "image": "https://imagepphcloud.thepaper.cn/pph/image/317/387/673.jpg",
+                    "content": "近期，各地纷纷裁撤政府招商部门，转向市场化的招商方式，以应对过度竞争和内卷问题。过去依赖土地、税费和补贴的招商方式已经难以为继，新政策强调通过优化营商环境来吸引投资。特别是在中西部地区，随着政策红利的消退，招商竞争的难度加大。未来，地方政府需要通过扎实的产业发展和营商环境建设，才能在招商引资中取得成功。",
+                    "link": "https://www.thepaper.cn/newsDetail_forward_28359393"
+                },
+                {
+                    "title": "多家银行回应“被通知禁止国债交易”传闻",
+                    "image": "",
+                    "content": "近日，有传言称江苏某些农商银行被禁止国债交易，但相关人士表示尚未收到消息。农商银行在债券市场上活跃，尤其在资产荒背景下，成为国债的主要买入方。尽管监管部门多次警示债市风险，这些银行仍积极参与债券交易。部分中小银行由于激励机制频繁操作国债交易，引发了监管关注。目前，债市监管持续收紧，农商银行面临压力，债市未来走势仍存在不确定性。",
+                    "link": ""
+                }
+            ]
+        },
+        "sports": {
+            "id": "sports",
+            "name": "体育",
+            "articles": [
+            {
+                "title": "NBA新赛季揭幕战，湖人主场战森林狼。",
+                "image": "https://i5.hoopchina.com.cn/news-editor/2024-8-13/00-34-17/8778d686-865f-40a2-b802-4a80812e5b1c.jpeg?x-oss-process=image/resize,w_800/format,webp",
+                "content": "NBA新赛季揭幕战将于10月23日开打。揭幕战分别是湖人主场战森林狼，尼克斯挑战绿军主场（主场颁发总冠军戒指）NBA2024-25新赛季将在两个月后开始，在赛季开始之前会进行季前赛。今年的11月13日（北京时间），独行侠将客场挑战勇士。**克莱将首次回到大通中心**",
+                "link": "https://bbs.hupu.com/627595015.html"
+            }
+            ]
+        },
+        "game": {
+            "id": "game",
+            "name": "游戏",
+            "articles": [
+                {
+                    "title": "《黑神话：悟空》登全球热销榜榜首",
+                    "image": "https://img1.mydrivers.com/img/20240811/9f7fac40-ddda-45a4-9289-e46fd2e01de7.jpg",
+                    "content": "《黑神话：悟空》终极预告发布后，游戏登上 Steam 全球热销榜榜首，国区 Steam 畅销榜前五，销量可观。尽管数字版畅销，但大量国外玩家希望推出实体盘版本，游戏制作方表示正在积极寻求合作，但目前无法同步推出实体光盘。",
+                    "link": "https://news.zol.com.cn/890/8908898.html"
+                },
+                {
+                    "title": "苹果手机首次可玩堡垒之夜，《堡垒之夜》开发商 Epic Games 在欧盟推出 iOS 应用商店",
+                    "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1053729894.jpg",
+                    "content": "Epic Games 宣布正式在欧盟推出其竞争性的 iOS 应用商店，并在全球范围内上线 Android 版本。该商店提供游戏如《堡垒之夜》和《火箭联盟》，未来还计划将更多游戏引入平台。这一举措是继与苹果的法律争斗和欧盟《数字市场法》带来的监管变化后实施的，标志着苹果 App Store 垄断地位首次面临强劲挑战。Epic Games CEO 表示，这为开发者和消费者带来了更多选择和竞争。",
+                    "link": "https://techcrunch.com/2024/08/16/fortnite-maker-epic-games-launches-its-app-store-on-ios-in-the-eu-worldwide-on-android/"
+                },
+                {
+                    "title": "“小孩”曾卓君夺得 2024 电竞世界杯《街霸 6》项目冠军",
+                    "image": "https://n.sinaimg.cn/spider20240812/500/w2000h2500/20240812/72cb-93bc54a9db76c7a2755e023319b7b75f.jpg",
+                    "content": "在刚刚结束的 2024 电竞世界杯（Esports World Cup 2024，EWC2024）《街霸 6》项目总决赛上，“小孩”曾卓君 5：2 击败日本选手 KAWANO 拿下冠军，将 30 万美元（IT之家备注：当前约 215.2 万元人民币）冠军奖金收入囊中。",
+                    "link": "https://finance.sina.com.cn/tech/digi/2024-08-12/doc-inciitzf7746580.shtml"
+                }
+                
+            ]
+        },
+        "global": {
+            "id": "global",
+            "name": "全球新闻",
+            "articles": [
+                {
+                    "title": "猴痘疫情不断加剧促使世卫组织宣布全球卫生紧急状态",
+                    "image": "http://world.people.com.cn/mediafile/pic/20240818/76/2941586608134521164.jpg",
+                    "content": "世界卫生组织16日敦促疫苗制造商增加猴痘疫苗产量，以控制一种更危险的猴痘毒株传播。同一天，欧洲疾病预防控制中心提高猴痘传播风险等级。",
+                    "link": "http://world.people.com.cn/n1/2024/0818/c1002-40300921.html"
+                },
+                {
+                    "title": "巴西飞机坠毁死亡61人",
+                    "image": "http://www.xinhuanet.com/20240810/eb86743fc2ee4c4aabd576fd9b11f275/ZfBVBXhuBgfOYcYP.jpeg",
+                    "content": "巴西沃帕斯航空公司9日确认，该公司一架载有61人的客机当天在巴西东南部圣保罗州维涅杜市坠毁，机上人员全部遇难。目前，失事飞机的黑匣子已被找到。",
+                    "link": "http://www.xinhuanet.com/20240810/eb86743fc2ee4c4aabd576fd9b11f275/c.html"
+                },
+                {
+                    "title": "日本首相辞职",
+                    "image": "https://www3.nhk.or.jp/news/html/20240814/K10014548611_2408141136_0814121329_02_06.jpg",
+                    "content": "当地时间今天（8月14日）上午11时30分左右，日本首相岸田文雄在首相官邸举行记者会见。岸田表示，自民党将于今年秋季进行“革新改变”，他本人将不再参选自民党总裁一职。据日媒报道称，这也就意味着，自民党新总裁选出后，岸田将辞去首相职务。",
+                    "link": "https://www3.nhk.or.jp/news/html/20240814/k10014548611000.html"
+                },
+                {
+                    "title": "谷歌表示伊朗黑客集团正在试图攻破拜登与特朗普竞选团队的电子邮件系统",
+                    "image": "",
+                    "content": "谷歌周三表示，自5月以来，伊朗黑客试图渗透与拜登总统和前总统特朗普有关联的约十几个电子邮件帐户，目标包括现任和前任政府官员以及总统竞选相关机构。谷歌成功干扰了这些网络钓鱼攻击，并向潜在受害者发出警告。特朗普的竞选团队称已被黑客入侵，敏感文件被盗并分发。目前尚不清楚泄露的文件是否与伊朗的网络活动有关。​⬤",
+                    "link": "https://www.bloomberg.com/en/news/thp/2024-08-14/google-confirms-an-iranian-group-is-trying-to-access-emails-linked-to-both-us-presidential-campaigns"
+                }
+            ]
+        },
+        "weather": {
+            "id": "weather",
+            "name": "气候",
+            "articles": [
+                {
+                    "title": "俄罗斯发生 7.0 级地震后火山爆发，灰柱高达 5 英里",
+                    "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap24230774294989.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp",
+                    "content": "在俄罗斯东部海岸发生7.0级地震后，希韦卢奇火山喷发，喷出高达8公里的火山灰柱。目前没有人员受伤的报告。地震震中距离彼得罗巴甫洛夫斯克-堪察加市约55英里，深度约30英里，未造成重大损失。尽管最初有海啸预警，但最终未发布海啸警报。",
+                    "link": "https://www.cnn.com/2024/08/17/world/earthquake-kamchatsky-tsunami-warning-russia-intl-latam/index.html"
+                },
+                {
+                    "title": "美国洛杉矶地区发生4.4级地震",
+                    "image": "https://static.zaobao.com.sg/s3fs-public/styles/article_large_full/public/articles/2024/08/13/Capture_0.png?VersionId=sAOchflhvQFeC5nYM6Rsw31DqMsZUV86&itok=OT1cMRpA",
+                    "content": "美国西岸城市洛杉矶于当地时间星期一（8月12日）下午12时20分（新加坡时间星期二凌晨3时20分）发生4.4级地震。地震震中位于洛杉矶市中心以东的高地公园附近。",
+                    "link": "https://www.zaobao.com.sg/realtime/world/story20240813-4472437"
+                },
+                {
+                    "title": "希腊最大森林火灾已蔓延至雅典郊区",
+                    "image": "https://www.ctif.org/sites/default/files/styles/cover_image_slider_teaser/public/2024-08/850b0a9d-1438-45c7-8d9a-0fe525c378b8.JPG?itok=HS9WcRCo",
+                    "content": "据CBC报道， 截至周一，这场大火--已经是希腊今年以来最严重的一场大火--已经蔓延到雅典人口稠密的北郊边缘，侵占了树木茂密的 彭特利山（Mount Penteli ）。",
+                    "link": "https://www.ctif.org/zh-hans/news/xilazuidasenlinhuozaiyimanyanzhiyadianjiaoqu"
+                },
+                {
+                    "title": "研究称，导致恐龙灭绝的小行星很可能是一个巨大的泥球",
+                    "image": "https://media.cnn.com/api/v1/images/stellar/prod/asteroid-figure-1.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp",
+                    "content": "一项新研究发现，导致恐龙灭绝的小行星是含有粘土和水的碳质球粒陨石，这种陨石非常稀有但古老。6600万年前，这颗小行星在墨西哥尤卡坦半岛撞击地球，导致75%的物种灭绝。研究人员通过分析地球各地的粘土层，确定了小行星的化学成分。这一发现有助于更好地理解如何应对未来可能的类似威胁。",
+                    "link": "https://www.cnn.com/2024/08/16/science/chicxulub-asteroid-impact-dinosaur-extinction/index.html"
+                }
+            ]
+        },
+        "Space": {
+            "id": "Space",
+            "name": "Space",
+            "articles": [
+                {
+                    "title": "超级蓝月亮即将来临",
+                    "image": "https://cdn.mos.cms.futurecdn.net/KamLgAzd5KoNBJJTCcetLQ-1200-80.jpg.webp",
+                    "content": "2024年8月19日将出现一次“超级蓝月亮”，这是同时具备“超级月亮”和“蓝月亮”特征的满月。超级月亮比普通满月更大更亮，蓝月亮指的是一个季节内的第三个满月。这次月亮虽然名字是“蓝月亮”，但实际上并不会变蓝。8月的这次超级蓝月亮是今年四次超级月亮中的第一次，之后的满月将在9月、10月和11月出现。",
+                    "link": "https://www.space.com/supermoon-blue-moon-august-2024-what-to-expect"
+                },
+                {
+                    "title": "巨型X级太阳耀斑从“打破常规”的太阳黑子中爆发，地球处于危险之中",
+                    "image": "https://cdn.mos.cms.futurecdn.net/faTZtyE8a2bfgVxRK7SrnU-1200-80.jpg",
+                    "content": "8月14日，太阳爆发了一次强烈的X级太阳耀斑，导致亚洲和印度洋地区的短波无线电中断。这个耀斑来自一个打破百年规律的太阳黑子AR3784，因其奇怪的极性引起科学家关注。耀斑还伴随了日冕物质抛射（CME），预计将在8月17日至18日抵达地球，可能引发极光现象和地磁风暴。",
+                    "link": "https://www.space.com/x-class-solar-flare-eruption-rule-breaking-sunspot-video"
+                },
+                {
+                    "title": "阿耳忒弥斯三号：NASA 首次人类登陆月球南极的任务",
+                    "image": "https://www.nasa.gov/wp-content/uploads/2022/11/artemis_iii_mission_map_2022.jpg",
+                    "content": "NASA的阿尔忒弥斯计划将于2026年通过阿尔忒弥斯三号任务把首位女性和首位有色人种送上月球。这将是人类50多年来首次登月，目标是月球南极。宇航员将乘坐猎户座飞船前往月球，并使用SpaceX的Starship登陆月球表面，进行科学探索和采样。任务旨在为未来的月球定期访问和人类火星任务铺平道路。",
+                    "link": "https://www.nasa.gov/missions/artemis/artemis-iii/"
+                },
+                {
+                    "title": "詹姆斯·韦伯太空望远镜（JWST）对宇宙膨胀率的测量",
+                    "image": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2024/08/JWST-crDesireeStover_NASA-scaled.webp",
+                    "content": "爱德文·哈勃发现宇宙在扩张，但现代测量结果却不一致，导致“哈勃常数”存在争议。詹姆斯·韦伯太空望远镜的最新观测也未能解决这一问题，两组科学家分别得出了不同的宇宙膨胀速度。这种“哈勃张力”可能意味着我们对宇宙的理解存在盲点。尽管有些研究认为测量误差可能是原因，争议仍在继续，科学家们将继续研究以寻找答案。",
+                    "link": "https://www.quantamagazine.org/the-webb-telescope-further-deepens-the-biggest-controversy-in-cosmology-20240813/"
+                },
+                {
+                    "title": "300 磅重的宇航服、绳索和无断裂：宇航员如何处理维修",
+                    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUKnQZI_kJ5M/v0/2000x1314.jpg",
+                    "content": "本月晚些时候，四名非职业宇航员将在Polaris Dawn任务中尝试首次商业太空行走，这是商业太空探索的重要里程碑。同时，波音的Starliner太空舱面临问题，导致任务推迟，安全性受到关注。SpaceX的Crew Dragon可能被考虑作为替代方案来接回宇航员。维珍银河今年财务表现不佳，股价暴跌近90%。Rocket Lab 继续取得进展，成功发射了一颗地球观测卫星。",
+                    "link": "https://www.bloomberg.com/news/newsletters/2024-08-07/how-spacex-polaris-dawn-crew-will-tackle-spacewalk-repairs-mission"
+                }
+            ]
+        },
+        "Think": {
+            "id": "Think",
+            "name": "思辨",
+            "articles": [
+                {
+                    "title": "在面对生活的挑战时，选择修复而非逃避，才能实现真正的成长和幸福。",
+                    "image": "https://b2846383.smushcdn.com/2846383/wp-content/uploads/2022/04/repair-and-remain1.jpg?lossy=2&strip=1&webp=1",
+                    "content": "这篇文章探讨了作者在不同职业中的经历，并分享了在家庭维修和牧师工作中的心得。他倡导“修复并坚持”的理念，鼓励人们在生活和关系中遇到困难时，不要轻易放弃，而是努力修复已有的问题。虽然“修复并坚持”听起来简单，但实际操作起来却并不容易。作者认为，通过坚持和修复现有的东西，我们能够更好地面对生活中的挑战，真正兑现我们曾经做出的承诺。",
+                    "link": "https://comment.org/repair-and-remain/"
+                },
+                {
+                    "title": "穷人，最大的武器是不要脸。",
+                    "image": "",
+                    "content": "本期访谈的嘉宾是一个“运气爆棚”的前学渣，高考低于一本线1分，学校却升级为一本。他大学四年几乎没学习，却找到了好工作，并在遇到真爱后，通过不断努力和“死不要脸”的精神，在欧洲找到高薪工作，年薪百万，最终赢得了准岳母的认可，顺利结婚。他的成功秘诀在于“不要好为人师”和“穷人的最大武器是不要脸”。这种坚持和不怕失败的态度值得学习。",
+                    "link": "https://mp.weixin.qq.com/s/J-fw3VaaQgKlP4omqHW2qw"
+                }
+            ]
+        }
+    }
+}
