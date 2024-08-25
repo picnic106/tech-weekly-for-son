@@ -1,0 +1,154 @@
+{
+    "id": 3,
+    "date": "2024年8月第4周",
+    "title": "SpaceX北极星黎明计划、黑悟空发售动态",
+    "sections": {
+        "tech": {
+            "id": "tech",
+            "name": "科技",
+            "articles": [
+                {
+                    "title":"世界最快显微镜问世，首次观察到电子运动",
+                    "image":"https://www.science.org/cms/10.1126/sciadv.adp5805/asset/f2ddf853-4437-4dac-bc36-ec21c75ce829/assets/images/large/sciadv.adp5805-f1.jpg",
+                    "content":"美国亚利桑那大学的研究人员开发了一种新型透射电子显微镜，其速度快到可以观察电子的运动。通过生成仅持续一阿秒的电子脉冲，这种显微镜能捕捉到电子的运动轨迹。科学家们希望利用这一工具深入研究微观粒子的行为，揭示电子的量子特性。",
+                    "link":"https://www.science.org/doi/10.1126/sciadv.adp5805"
+                },
+                {
+                    "title":"麻省理工学院的科学家制造出头发大小的电池，可以为细胞大小的机器人提供动力",
+                    "image":"https://cdn.mos.cms.futurecdn.net/QwBDag7cUXmsx7xqFNz5XA-1200-80.jpg.webp",
+                    "content":"研究人员开发出一种极细的电池，可以为比句号还小的机器人供电。这种锌空气电池通过氧化微量锌产生高达1伏的电压，能为传感器或微型机器人提供动力。与传统依赖光源的“提线木偶”机器人不同，这种新电池赋予微型机器人更大的自主性，有望用于医疗和其他难以到达的场所。研究团队计划将这种电池直接嵌入微型机器人中，实现无线供电。",
+                    "link":"https://www.livescience.com/technology/mit-scientists-build-hair-size-batteries-that-can-power-cell-sized-robots"
+                },
+                {
+                    "title":"令科学家困惑的奇怪神秘波可能存在于地球地幔内部的“任何地方”",
+                    "image":"https://cdn.mos.cms.futurecdn.net/ksCYp9stHzNWtnPnLvCqeD-1200-80.jpg.webp",
+                    "content":"新研究发现，地幔深处的神秘区域可能比预想的更加普遍，这些区域会显著减缓地震波的速度。这些所谓的超低速区（ULVZs）位于靠近地核的地幔底部，能够使地震波速度降低多达50%。研究表明，这些区域可能是由于海洋玄武岩被俯冲进地幔后熔化形成的。这一发现有助于科学家更好地理解火山热点和地幔运动。",
+                    "link":"https://www.livescience.com/planet-earth/geology/weird-mystery-waves-that-baffle-scientists-may-be-everywhere-inside-earth-s-mantle"
+                },
+                {
+                    "title":"黑客是理解计算机和社会运作的人，以及如何在复杂的金融环境中生存。",
+                    "image":"https://phrack.org/images/phrack-logo.jpg",
+                    "content":"文章《Calling All Hackers》探讨了黑客文化与商业的关系，强调黑客不仅要具备技术能力，还需理解金融和市场运作。文章分析了加密货币市场的“屎币”现象，批判了风险投资文化的短视，并呼吁黑客们利用其知识在资本市场中推动积极变化。作者认为，真正的黑客不仅是技术专家，更是能洞察社会和经济系统运作的创新者，能够在复杂的金融环境中生存和发展。",
+                    "link":"https://phrack.org/issues/71/17.html"
+                },
+                {
+                    "title":"分钟人三型是唯一的美国陆基洲际弹道导弹（ICBM）",
+                    "image":"https://static.righto.com/images/minuteman-mmiii/guidance-labeled-w700.jpg",
+                    "content":"这篇文章详细介绍了美国“民兵三型”核导弹的制导系统和计算机。文章指出，导弹的惯性导航系统由超过17,000个电子和机械部件组成，使用陀螺仪和加速度计来测量导弹的位置和速度，确保飞行轨迹的精确。导弹的计算机系统从最初的D-17B发展到更先进的D-37系列，提供更强的计算能力和控制精度。此外，文章还讨论了导弹发射的安全性、加密措施以及技术创新，同时触及了核武器带来的道德挑战。",
+                    "link":"http://www.righto.com/2024/08/minuteman-guidance-computer.html"
+                },
+                {
+                    "title":"大型强子对撞机的光束管即将揭开磁单极子的面纱",
+                    "image":"https://scitechdaily.com/images/Compact-Muon-Solenoid-CMS-Large-Hadron-Collider.jpg",
+                    "content":"科学家利用LHC（大型强子对撞机）的一个废弃光束管段，搜索假设中的磁单极子（仅有一个磁极的粒子）。研究团队分析了在超高能离子碰撞中产生的辐射效应，虽然未发现磁单极子，但他们设立了严格的存在限制，推动了粒子物理学的研究前沿。未来，他们计划在更高能量的实验中继续探索磁单极子的存在。研究结果已发表在《Physical Review Letters》上。",
+                    "link":"https://scitechdaily.com/large-hadron-colliders-beam-pipe-edges-closer-to-unmasking-magnetic-monopoles/"
+                },
+                {
+                    "title":"量子数据首次通过同一光纤连接与“经典数据”一起传输",
+                    "image":"https://cdn.mos.cms.futurecdn.net/iKGMTzYoucm5EAGMJnLYyb-1200-80.jpg.webp",
+                    "content":"科学家们首次成功通过单一光纤传输量子数据和传统数据。这项研究表明，纠缠光子形式的量子数据和激光脉冲形式的传统互联网数据可以在同一光纤中共存。此“混合”网络可能使量子通信的实施更高效，因为它能让量子和传统数据共享同一基础设施。这项突破为将量子互联网与现有互联网相结合提供了重要的技术基础，相关研究已发表于《科学进展》杂志。",
+                    "link":"https://www.livescience.com/technology/communications/quantum-data-beamed-alongside-classical-data-in-a-single-fiber-optic-connection-for-the-1st-time"
+                }
+            ]
+        },
+        "Space": {
+            "id": "Space",
+            "name": "Space",
+            "articles": [
+                {
+                    "title": "SpaceX“北极星黎明（Polaris Dawn）”任务计划在8月27日星期二发射",
+                    "image": "https://cdn.mos.cms.futurecdn.net/nQT7hEWYdormDwgE5Trn5E-1200-80.jpg.webp",
+                    "content": "“极光黎明号”任务将于8月27日发射，将四名宇航员送入太空，进行为期五天的飞行。任务的第三天，即8月29日，将进行首次由私人任务进行的太空行走（EVA）。指挥官贾里德·艾萨克曼和任务专家萨拉·吉利斯将依次执行太空行走，每人预计在太空中待15至20分钟。由于Crew Dragon飞船没有气闸，整个任务过程将包括船舱的压力调节和重新加压，预计持续约两小时。此次任务将测试SpaceX新开发的太空服，并为未来的深空探测做准备。",
+                    "link": "https://www.space.com/spacex-polaris-dawn-private-spacewalk-explainer"
+                },
+                {
+                    "title":"美国宇航局确认，波音星际航线宇航员将于 2025 年乘坐 SpaceX Dragon 返回地球",
+                    "image":"https://cdn.mos.cms.futurecdn.net/Znw66AC6BU8JD5zKcbQ7cJ-1200-80.jpg.webp",
+                    "content":"NASA宣布，两名宇航员Suni Williams和Butch Wilmore将于2025年2月前返回地球，而非原定的八天任务。由于Boeing的Starliner飞船存在推力系统问题，他们将乘坐改装后的SpaceX Dragon飞船返回地球。Starliner将在9月无乘员返回新墨西哥的白沙空间港。NASA决定延长他们在国际空间站的停留，以确保安全，同时对Starliner进行进一步测试和改进。",
+                    "link":"https://www.space.com/nasa-boeing-starliner-astronauts-will-return-on-spacex-dragon-2025"
+                },
+                {
+                    "title":"未来 7 天内将有 5 颗小行星接近地球",
+                    "image":"https://static.toiimg.com/thumb/msid-112762080,imgsize-40920,width-400,resizemode-4/112762080.jpg",
+                    "content":"NASA发出警报，称五颗小行星将在8月27日至9月1日期间经过地球。这些小行星不会对地球构成威胁，但为科学家提供了观察和研究的机会。",
+                    "link":"https://timesofindia.indiatimes.com/etimes/trending/nasa-alert-5-asteroids-approaching-towards-earth-in-next-7-days/articleshow/112762025.cms"
+                },
+                {
+                    "title":"美国宇航局韦伯望远镜发现天王星周围存在海洋世界的证据",
+                    "image":"https://imageio.forbes.com/specials-images/imageserve/66a7902cbb2f9655372c3b9e/Ariel-or-Uranus-I-orbiting-between-the-rings-of-Uranus-planet--3d-render/960x0.jpg?format=jpg&width=1440",
+                    "content":"最新的詹姆斯·韦布太空望远镜观测显示，天王星的冰月艾丽尔可能拥有地下液态海洋。艾丽尔的表面发现了二氧化碳冰和一氧化碳，这些物质的存在尚无解释。科学家推测，二氧化碳冰可能来源于地下海洋的化学过程，或由天王星磁场的辐射分解产生。研究还发现表面有碳酸盐，这表明水与岩石的反应可能发生在地下。对艾丽尔及其他天王星卫星的进一步研究可能会揭示更多信息。NASA考虑在2030年代初发射探测任务。",
+                    "link":"https://www.forbes.com/sites/jamiecartereurope/2024/08/18/nasas-webb-telescope-finds-evidence-for-an-ocean-world-around-uranus/"
+                },
+                {
+                    "title":"本周太空照片：首次近距离拍摄海王星照片，这也是旅行者 2 号拍摄的最后一张行星肖像",
+                    "image":"https://cdn.mos.cms.futurecdn.net/v87oBEtBUAN6CTMJYfahLm-1200-80.jpg.webp",
+                    "content":"1989年8月25日，NASA的“旅行者2号”探测器首次拍摄了海王星的近距离图像，揭示了其深蓝色外观。虽然这些图像使用假色处理，实际海王星的颜色较浅，呈蓝绿色。旅行者2号在这次飞掠中还发现了海王星的六颗新卫星和四个环，并对其卫星天卫一号和奈瑞德进行了探测。这是旅行者2号在完成对木星、土星和天王星的探测后，最后一次拍摄的行星图像。探测器于2018年进入星际空间，至今仍在运行。",
+                    "link":"https://www.livescience.com/space/neptune/space-photo-of-the-week-1st-ever-close-up-of-neptune-is-voyager-2-s-final-portrait-of-a-planet"
+                }
+            ]
+        },
+        "game": {
+            "id": "game",
+            "name": "游戏",
+            "articles": [
+                {
+                    "title":"《黑神话：悟空》在 PS5、PC 上发售三天销量惊人达 1000 万份",
+                    "image":"https://images.pushsquare.com/9e789501b937a/black-myth-wukong-has-sold-an-astonishing-10-million-copies-in-three-days-on-ps5-pc-1.900x.jpg",
+                    "content":"《黑神话：悟空》正式成为一大热门。这款由游戏科学工作室开发、灵感源自《西游记》的动作RPG在PS5和PC平台的销量已达到1000万份。工作室通过社交媒体宣布了这一消息，并感谢全球玩家的支持。仅在上市的前几天就达到这一销量令人惊叹。该游戏的同时在线玩家数峰值达到了300万，其中大部分玩家来自中国。",
+                    "link":"https://www.pushsquare.com/news/2024/08/black-myth-wukong-has-sold-an-astonishing-10-million-copies-in-three-days-on-ps5-pc"
+                },
+                {
+                    "title":"《纪念碑谷3》全球首曝预告 12月上线 网飞独占",
+                    "image":"https://img.3dmgame.com/uploads/images/news/20240821/1724202207_500107.jpg",
+                    "content":"《纪念碑谷3》官方发布全球首支预告片，宣布游戏将于12月10日发售，登陆iOS和安卓，Netflix游戏平台独占。",
+                    "link":"https://www.cnbeta.com.tw/articles/game/1443001.htm"
+                }
+                
+            ]
+        },
+        "global": {
+            "id": "global",
+            "name": "全球",
+            "articles": [
+                {
+                    "title":"张一鸣、梁汝波共同向母校南开大学捐赠2亿元，支持数学研究和人才培养",
+                    "image":"https://i.guancha.cn/news/official/2024/08/21/20240821112107281.png",
+                    "content":"字节跳动创始人张一鸣和CEO梁汝波向母校南开大学捐赠2亿元，支持数学研究和人才培养。南开大学今年迎来105周年，数学学科由姜立夫于1920年创建，已发展成重要的研究和人才培养基地。张一鸣和梁汝波是南开大学2001级校友，此次捐赠将推动南开数学的发展。",
+                    "link":"https://www.guancha.cn/economy/2024_08_21_745533.shtml"
+                },
+                {
+                    "title":"泰国确诊亚洲首例新型 Mpox 猴痘病毒株病例",
+                    "image":"https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iatAfP6OTYQ4/v1/2000x1334.jpg",
+                    "content":"泰国成为亚洲首个发现新型mpox病毒突变株的国家。感染者是一名66岁的欧洲男性，他上周从非洲抵达曼谷。泰国卫生部门已识别43名密切接触者，进行为期21天的监测，出现发热、皮疹或淋巴结肿胀症状需就医。",
+                    "link":"https://www.bloomberg.com/news/articles/2024-08-22/thailand-confirms-asia-s-first-case-of-new-mpox-virus-strain"
+                },
+                {
+                    "title":"冰岛火山突然再次喷发，照亮夜空",
+                    "image":"https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2024/08/1336/752/ice-land.jpg?ve=1&tl=1",
+                    "content":"冰岛格林达维克附近的火山于8月22日晚上爆发，导致当局发布紧急状态并疏散了周边地区的居民。火山裂缝从南到北延伸，长度约为一英里。附近的地热电厂和著名景点蓝湖已暂时关闭。此次火山爆发是自2023年底以来第六次熔岩喷发。冰岛因位于欧亚板块和北美板块交界处，火山活动频繁。",
+                    "link":"https://www.foxweather.com/extreme-weather/iceland-sundhnukur-volcano-eruption-grindavik-blue-lagoon"
+                },
+                {
+                    "title":"上周，我国发生3.0级及以上地震17次，全球发生6.0级及以上地震2次",
+                    "image":"",
+                    "content":"上周，我国发生3.0级及以上地震17次，全球发生6.0级及以上地震2次。",
+                    "link":"https://m.weibo.cn/status/5069346864890497"
+                },
+                {
+                    "title":"凯特琳·克拉克打破 WNBA 新秀助攻纪录，狂热队继续冲击季后赛",
+                    "image":"https://i.guim.co.uk/img/media/7fba8967ae9c6bd40905d4d8049ab2e36c12d7cb/0_145_4348_2608/master/4348.jpg?width=620&dpr=2&s=none",
+                    "content":"在周日的比赛中，印第安纳狂热队以92-75战胜了西雅图风暴队。凯尔西·米切尔贡献27分，凯特琳·克拉克砍下23分和9次助攻，莱克西·赫尔在第四节独得12分，总计22分。克拉克本赛季助攻总数达到232次，打破了WNBA新秀助攻纪录。印第安纳队在经过巴黎奥运会的一个月休整后，连续赢得两场比赛，状态回暖。西雅图风暴队的珠尔·洛伊德得到26分，斯凯拉·迪金斯-史密斯15分，但全队投篮命中率仅为38.9%。",
+                    "link":"https://www.theguardian.com/sport/article/2024/aug/19/caitlin-clark-breaks-wnba-rookie-assist-record-as-fever-continue-playoff-push"
+                },
+                {
+                    "title":"广东在澳门发行25亿元离岸人民币地方政府债券",
+                    "image":"",
+                    "content":"广东省在澳门发行25亿元离岸人民币地方政府债券。",
+                    "link":"https://www.zaobao.com.sg/realtime/china/story20240822-4524386"
+                }
+            ]
+        }
+        
+        
+    }
+}
