@@ -1,0 +1,192 @@
+{
+    "id": 4,
+    "date": "2024年8月第5周",
+    "title": "SpaceX北极星黎明计划、黑悟空发售动态",
+    "sections": {
+        "tech": {
+            "id": "tech",
+            "name": "科技",
+            "articles": [
+                {
+                    "title": "由电脉冲控制的生物混合机器人",
+                    "image": "https://scx1.b-cdn.net/csz/news/800a/2024/biohybrid-robots-contr.jpg",
+                    "content": "康奈尔大学的研究人员开发了一种新的“生物混合”机器人，这种机器人利用真菌菌丝的电信号来控制和感知环境。研究团队通过将菌丝体融入机器人电子系统，使机器人能够对光等环境刺激做出反应，并完成了多个实验。该研究展示了真菌在机器人领域的潜力，不仅可以增强机器人的自主性，还可以帮助我们更好地理解生物系统的信号与反应。这项研究发表在《科学机器人》杂志上。",
+                    "link": "https://techxplore.com/news/2024-08-biohybrid-robots-electrical-impulses-mushrooms.html#google_vignette"
+                },
+                {
+                    "title": "陶哲轩(华裔数学家)在2024年国际数学奥林匹克（IMO）的演讲：AI 与数学",
+                    "image": "https://p3.itc.cn/q_70/images03/20230901/16e7de3e77df4c77bc4256cd816633e9.jpeg",
+                    "content": "在英国巴斯举行的第65届IMO上，陶哲轩介绍了计算机和AI在数学研究中的应用。他讨论了从早期计算工具到现代机器学习和形式证明助手的发展，重点介绍了最近的突破和正在面对的挑战。陶哲轩强调，尽管AI在数学领域变得越来越有用，但人类的洞察力和创造力仍然是取得有意义进展的关键。",
+                    "link": "https://www.bilibili.com/video/BV1kssseFE6X/"
+                },
+                {
+                    "title": "“比人们想象的更近”：猛犸象“复活”即将成为现实",
+                    "image": "https://cdn.mos.cms.futurecdn.net/zFQapJDXFFB5wopeMidezi-1200-80.jpg.webp",
+                    "content": "科学家们在2003年成功克隆了已经灭绝的比利牛斯山羊，但克隆体在出生后仅存活了几分钟。尽管那次尝试失败，但“复活”灭绝物种的技术已显著进步，现在许多公司正在努力复活包括渡渡鸟、塔斯马尼亚虎和猛犸象在内的灭绝物种。然而，专家对此存在争议，一些人担心这可能对生态系统造成不可预见的负面影响。他们认为，与其复活已灭绝的物种，不如将资源用于保护现存濒危物种。",
+                    "link": "https://www.livescience.com/animals/extinct-species/closer-than-people-think-woolly-mammoth-de-extinction-is-nearing-reality-and-we-have-no-idea-what-happens-next"
+                },
+                {
+                    "title": "中国在核聚变领域争当世界领军者",
+                    "image": "https://media.nature.com/w1248/magazine-assets/d41586-024-02759-x/d41586-024-02759-x_27493256.jpg?as=webp",
+                    "content": "这篇文章描述了中国在核聚变研究领域的进展，特别是在合肥的中国科学院等离子体物理研究所（ASIPP）。研究人员在实验先进超导托卡马克（EAST）装置上工作，这是一种模拟太阳核聚变反应的装置。尽管核聚变发电尚未实现，但中国在这一领域投入了大量资源，并取得了显著进展。中国计划在2030年代建造中国聚变工程试验堆（CFETR），并在2040年代实现高效核聚变发电。这些努力使中国成为全球核聚变研究的主要参与者。此外，中国还在加速建设相关设施和培养核聚变研究人员，力争在这一未来能源领域取得领先地位。",
+                    "link": "https://www.nature.com/articles/d41586-024-02759-x"
+                },{
+                    "title": "曝 OpenAI 神秘模型「草莓」秋季推出，ChatGPT 或迎来今年最重大升级",
+                    "image": "https://img.36krcdn.com/hsossms/20240828/v2_b2043072ab794f2db7f15f2a02117dcb@5091053_oswg404718oswg1080oswg607_img_000?x-oss-process=image/format,jpg/interlace,1/format,jpg/interlace,1/format,jpg/interlace,1/format,jpg/interlace,1/format,jpg/interlace,1",
+                    "content": "OpenAI 正在开发代号为「草莓」的 AI 模型，预计今年秋季推出。「草莓」具有强大的数学和编程问题解决能力，还可以处理主观话题。这个模型可能会成为 ChatGPT 的一部分，并为 OpenAI 的新旗舰模型 Orion 提供支持。「草莓」有望改进 AI 的推理能力，减少错误，帮助 OpenAI 保持行业领先地位，并应对竞争对手的挑战。",
+                    "link": "https://www.36kr.com/p/2924935688493961"
+                },
+                {
+                    "title": "科学家们在最终抵达红海海底后做出了令人毛骨悚然的发现",
+                    "image": "https://images.ladbible.com/resize?type=webp&quality=70&width=3840&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/blt949ea8e16e463049/blt79fe51dcc3a83bdb/66d2ddc9edc72e4976280922/scientists-discovery-bottom-red-sea.png",
+                    "content": "科学家们在红海海底发现了一种被称为“死亡池”的现象，这些池子含有极高的盐分和缺氧环境，大部分生命无法在其中生存。研究表明，进入这些池子的鱼类会立即被击晕或死亡，而捕食者则守在池子附近等待猎物。尽管这些“死亡池”听起来令人害怕，但它们提供了重要的科学信息，有助于了解地球上生命的起源，并可能为探索其他星球上的生命提供线索。",
+                    "link": "https://www.unilad.com/news/world-news/red-sea-death-pools-brine-oxygen-667479-20240828"
+                },
+                {
+                    "title": "超音速XB-1原型机在第二次试飞中表现出色",
+                    "image": "https://cdn.mos.cms.futurecdn.net/4rUC9BLjmW7yNbCoMWJVJ-1200-80.jpg.webp",
+                    "content": "科罗拉多公司Boom Supersonic的XB-1超音速演示飞机在8月26日进行了第二次飞行。飞行从加州莫哈韦航天港起飞，持续约15分钟，达到10,400英尺（3,170米）的高度和277英里/小时（446公里/小时）的速度。这次飞行首次展示了起落架的收放，并测试了新的数字稳定增强系统。公司计划继续进行测试，最终实现超音速飞行，目标是加速未来的超音速客机项目。",
+                    "link": "https://www.space.com/boom-supersonic-xb-1-second-test-flight-photos"
+                }
+
+            ]
+        },
+        "finance": {
+            "id": "finance",
+            "name": "经济",
+            "articles": [
+                {
+                    "title": "人民币对美元7.08，人民币汇率升至15个月新高",
+                    "image": "https://n.sinaimg.cn/spider20240830/176/w1266h510/20240830/a77c-3c790ca4f753ecaee381e5c704c6023a.png",
+                    "content": "截至8月30日，人民币兑美元汇率在岸和离岸市场分别升至7.0881和7.0823，均已收复年内跌幅。近期人民币走强主要由于企业结汇需求释放，但专家认为这种升值趋势可能难以持续。未来人民币汇率仍将受美联储货币政策和美国大选等外部因素的影响。尽管人民币短期内可能进一步升值，但长期走势仍存在不确定性。",
+                    "link": "https://finance.sina.com.cn/roll/2024-08-30/doc-incmmvxh3115492.shtml"
+                },
+                {
+                    "title": "这些股票将受益于《黑神话：悟空》的出色表现",
+                    "image": "https://inews.gtimg.com/news_bt/O6ZcsH0xxDsbqERvJLzefWpzaozx8BpR5fU8Rz51AWiS0AA/641",
+                    "content": "《黑神话：悟空》在发布后几天内销量突破1000万份，带来了巨额收入，并推动了多个行业的发展。腾讯、阿里巴巴的天猫和京东等公司从中受益，特别是在游戏硬件和电商销售方面。腾讯通过其云服务和社交平台支持游戏的分发和推广，天猫和京东则因游戏对高性能硬件的需求增长，硬件销售大幅上升。此外，虎牙直播平台的观看量和打赏收入也因为这款游戏大幅增加。",
+                    "link": "https://finance.yahoo.com/news/stocks-benefit-black-myth-wukongs-140556372.html"
+                },{
+                    "title": "拼多多股票在美股暴跌，跌去600亿市值",
+                    "image": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0322%2F3646e153j00saq8qf005jd000q300epm.jpg&thumbnail=660x2147483647&quality=80&type=jpg",
+                    "content": "8月26日，拼多多股价暴跌超28%，市值在短短三天内蒸发704亿美元。尽管公司二季度业绩强劲，营收和净利润大幅增长，但由于高管在发布会上不断预测未来业绩下滑，导致市场信心崩溃，股价大幅下跌。黄峥曾因拼多多股价暴涨成为中国首富，但他对“首富”头衔并不感兴趣。过去类似情况的首富们，如黄光裕、王健林、马云和许家印，都经历了不同程度的风波。拼多多目前面临舆论压力和商家不满，并计划未来12个月投入100亿支持商家。",
+                    "link": "https://www.163.com/dy/article/JAPDJ0CB0552KYAK.html"
+                }
+                ,{
+                    "title": "英伟达发布2024财年第二季度财报，英伟达股价盘后先涨后跌，一度下跌8%",
+                    "image": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/20225/62993f2db3aed3337e54cd27_DH1L4494-HDR-20220531-r4/DH1L4494-HDR-20220531-r4_mid.jpg",
+                    "content": "财报数据显示，第二财季营收300亿美元，同比增长122%，净利润165.99亿美元，同比增长168%。最重要的数据中心业务营收263亿美元，同比增长154%，均超出分析师预期。然而，英伟达对下一季度的营收预测低于市场最乐观预期，引发投资者对增长放缓的担忧。公司还宣布了一项无限期的500亿美元股票回购授权。",
+                    "link": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2025"
+                },
+                {
+                    "title": "黄金（XAU）价格预测：非农就业报告会推动黄金下一次突破吗？",
+                    "image": "https://responsive.fxempire.com/v7/_fxempire_/2024/08/Gold-chart-2J-2.jpg?func=crop&q=70&width=660&force_format=webp",
+                    "content": "近期黄金价格接近纪录高点2,531美元，主要受到对美联储降息的预期和地缘政治紧张局势的推动。预计美联储将在9月降息，市场普遍预期有69%的可能性降息25个基点，这可能会推动黄金价格进一步上涨。如果即将公布的美国非农就业数据较弱，可能会增强降息50个基点的预期，从而推动黄金价格上行。尽管如此，黄金市场也面临一些风险，如实际需求不振和市场定位过度。整体来看，黄金的短期走势仍然谨慎看涨。",
+                    "link": "https://www.fxempire.com/forecasts/article/gold-xau-price-forecast-will-the-nfp-report-drive-the-next-gold-breakout-1457732"
+                }
+            ]
+        },
+        "Space": {
+            "id": "Space",
+            "name": "Space",
+            "articles": [
+                {
+                    "title": "SpaceX 将启动私人“北极星黎明”太空行走任务，这是自阿波罗以来人类最远的太空飞行",
+                    "image": "https://cdn.mos.cms.futurecdn.net/HDPjSPLeS3SqANVmJ3uEsP-1200-80.jpg.webp",
+                    "content": "SpaceX计划发射“Polaris Dawn”任务，这将是自阿波罗时代以来，最远的载人飞行。任务将执行历史上首次商业太空行走。任务由亿万富翁贾里德·艾萨克曼资助，他也将担任指挥官。飞行员包括退役空军上校斯科特·波特和两名SpaceX工程师萨拉·吉利斯与安娜·梅农。“Polaris Dawn”将进入一个椭圆轨道，最高可达1,400公里，进行深空辐射环境实验，并测试SpaceX的新型宇航服。此次任务将使吉利斯和梅农成为飞得最高的女性，超越了前NASA宇航员凯瑟琳·沙利文的纪录",
+                    "link": "https://www.space.com/spacex-polaris-dawn-to-launch-farthest-human-spaceflight-since-apollo"
+                },
+                {
+                    "title": "毅力号火星车面临迄今为止最艰难的挑战，开启第五次科学行动",
+                    "image": "https://www.nasaspaceflight.com/wp-content/uploads/2024/08/pia26344-2500x-1170x830.jpg",
+                    "content": "NASA的“毅力号”探测车自2021年2月到达火星以来，完成了对耶泽罗撞击坑底部和河流三角洲的探索，收集了地表样本。现在，探测车开始攀登撞击坑的西缘，这一过程被称为“撞击坑边缘任务”，预计将面临极具挑战的地形。探测车在河流三角洲的工作中采集了火星上唯一的沉积岩样本，这些样本有助于确认火星曾经有液态水，并可能曾支持过生命。接下来的任务将集中在撞击坑的两处优先区域，“Pico Turquino”和“Witch Hazel Hill”，科学家希望这些区域能提供关于火星古老地质历史的更多信息。“毅力号”将在攀登过程中依靠自动导航系统，最终到达名为“极光公园”的位置，继续进行科学探索。",
+                    "link": "https://www.nasaspaceflight.com/2024/08/perseverance-fifth-campaign/"
+                },
+                {
+                    "title": "美国宇航局面临 72% 的小行星撞击概率：行星防御测试",
+                    "image": "https://scitechdaily.com/images/Near-Earth-Asteroid-Illustration-Wide-1536x1024.jpg",
+                    "content": "NASA定期进行模拟小行星撞击应对演习，以提高全球应对能力。最新的演习设定了一个假想的小行星，预计14年后有72%的概率撞击地球。演习包括NASA、FEMA及国际专家，重点讨论了如何采取国际合作应对威胁。模拟中还探讨了如何通过侦察或偏转技术来改变小行星轨道。NASA的DART测试已成功展示了小行星偏转的可行性。未来，NEO Surveyor望远镜将帮助提前发现潜在危险的小行星。",
+                    "link": "https://scitechdaily.com/nasa-confronts-72-asteroid-impact-probability-a-planetary-defense-test/"
+                },
+                {
+                    "title": "太阳轨道器展示太阳风如何获得磁力推动",
+                    "image": "https://scx1.b-cdn.net/csz/news/800a/2024/solar-orbiter-shows-ho.jpg",
+                    "content": "ESA的太阳轨道器与NASA的帕克太阳探测器合作，揭示了太阳风加速和加热的能量来源。研究发现，太阳风加速所需的能量来自太阳磁场的大规模振荡，即阿尔芬波。通过对比两探测器在不同位置对相同太阳风流的测量数据，研究确认了这些磁场振荡能量对太阳风的加速和加热作用。阿尔芬波的能量还在加热太阳风和减缓其冷却过程中发挥了重要作用。这些发现帮助我们理解太阳风及其对其他类太阳星的影响。",
+                    "link": "https://phys.org/news/2024-08-solar-orbiter-magnetic.html"
+                },
+                {
+                    "title": "宇宙中 85% 的物质都是暗物质：但科学家们正在接近找到它们",
+                    "image": "https://scx1.b-cdn.net/csz/news/800a/2024/85-of-the-matter-in-th.jpg",
+                    "content": "科学家们在LUX-ZEPLIN（LZ）实验中进行了对暗物质的最新研究。虽然尚未发现暗物质的具体粒子，但实验设定了最严格的限制，并验证了探测器的有效性。实验在美国南达科他州的地下金矿中进行，使用液态氙作为探测介质，以减少背景辐射干扰。迄今为止的结果未发现暗物质粒子，但排除了许多可能性。未来，研究团队计划建造更大的探测器（XLZD），以进一步探索暗物质的存在。",
+                    "link": "https://phys.org/news/2024-08-universe-scientists-closer.html"
+                },
+                {
+                    "title": "美国宇航局的太阳帆在太空中成功展翅",
+                    "image": "https://cdn.mos.cms.futurecdn.net/nLVrzrKXqpxgkcRRkY9GoK-1100-80.png.webp",
+                    "content": "NASA的先进复合材料太阳帆系统（ACS3）在4月24日随火箭实验成功发射到太空，并于8月末确认太阳帆在太空中完全展开。太阳帆利用光子动量推动航天器前进。接下来几周，团队将测试太阳帆的操控能力，并利用飞行数据设计未来的大规模太阳帆系统。太阳帆的面积接近一个网球场的一半，约为80平方米。",
+                    "link": "https://www.space.com/nasa-solar-sail-deployment"
+                }
+            ]
+        },
+        "game": {
+            "id": "game",
+            "name": "游戏",
+            "articles": [
+                {
+                    "title": "预计与篮网签订两年双向合同，崔永熙下赛季有望征战NBA",
+                    "image": "https://q7.itc.cn/images01/20240830/29270f42dfd54fc6945d1a337ce140eb.jpeg",
+                    "content": "近日，据多位媒体人报道，崔永熙有望与篮网签下一份为期2年的双向合同，最快将在下周签约。这意味着，下赛季有望在NBA赛场看到崔永熙的身影。",
+                    "link": "https://www.thepaper.cn/newsDetail_forward_28590800"
+                },
+                {
+                    "title": "文明7确认登陆NS Switch版预告片发布",
+                    "image": "https://www.ign.com.cn/sm/t/ign_cn/screenshot/default/1_cyrw.1920.jpg",
+                    "content": "《文明7》是一款回合制策略游戏，让你创建有史以来最强盛的帝国！你的每个策略决定都将影响你不断演进的帝国，形塑独一无二的文化脉络。化身为史上众多传奇领袖之一统驭帝国，在每个助长人类进步的时代里，选择新的文明来代表你的帝国，左右你的故事发展。游戏将在2025年2月11日登陆PS5、PS4、Xbox、Switch和PC平台。",
+                    "link": "https://www.ign.com.cn/sid-meiers-civilization-vii/50772/video/switchban-wen-ming-7-xuan-chuan-shi-pin"
+                },
+                {
+                    "title": "网易国服《炉石传说》 9月25日回归，开始预约",
+                    "image": "https://hs.res.netease.com/pc/zt/20240711145422/assets/yuyue-img_7b4227bb.png",
+                    "content": "《炉石传说》是一款与《魔兽世界》具有相同世界观的卡牌游戏，玩家的目的在于击败对手获得胜利。每局游戏时间不长，玩家会在此间扮演不同的英雄，借助随从之力，运用各种法术，以至于操起武器亲自上阵，在风格各异的战场上挥斥方遒、纵横捭阖，这一切不要求你的脑子像在《魔兽世界》中一样，紧随着对手的反应作出瞬间判断，只要在自己的每个回合淡定地做出自己的决定即可。",
+                    "link": "https://hs.blizzard.cn/"
+                }
+            ]
+        },
+        "global": {
+            "id": "global",
+            "name": "全球",
+            "articles": [
+                {
+                    "title": "日本姗姗台风变为超强台风",
+                    "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/5213/live/40ffeb30-65e3-11ef-b970-9f202720b57a.jpg",
+                    "content": "日本遭遇数十年来最强台风之一。台风带来时速252公里的暴雨和强风，现已减弱为“严重热带风暴”。台风造成至少4人死亡，80多人受伤。南部超过500万人被疏散，23.7万户家庭停电，700多架航班被取消。",
+                    "link": "https://www.bbc.com/news/live/c80eje2r20rt"
+                },
+                {
+                    "title": "教皇方济各(基督教最高领导人)批评了拒绝移民的行为",
+                    "image": "https://d.newsweek.com/en/full/2460129/pope-francis-speaks-during-weekly-audience.webp?w=790&f=b3dd5c5ac84b66252f273f8c21b2a538",
+                    "content": "教皇方济各批评了拒绝移民的行为，称其为“严重罪过”，并呼吁扩大安全合法的移民通道。他指出地中海已成为移民的“墓地”。特朗普的支持者对此反应强烈，指责方济各迎合全球主义者，并指出梵蒂冈自身也有围墙保护。",
+                    "link": "https://www.newsweek.com/pope-francis-migrant-comments-maga-anger-1945918"
+                },{
+                    "title": "深圳地区出现猴痘病毒本土流行，92名患者均为男性，",
+                    "image": "",
+                    "content": "2023年6月以来，深圳地区出现了持续的猴痘病毒流行。深圳市第三人民医院的研究团队对92例患者进行了研究，并通过全基因组测序和进化分析，揭示了病毒的进化路径。大多数患者为30岁左右的男性，其中一半以上确诊艾滋，62.2%的患者出现了生殖器病变，提示性接触可能是主要的传播途径。",
+                    "link": "https://m.weibo.cn/detail/5073374248699218"
+                },
+                {
+                    "title": "美国北卡罗来纳州和阿巴拉契亚大部分地区上空出现巨大火球",
+                    "image": "",
+                    "content": "周五凌晨，近十多个州的居民目击了一颗火球，产生了耀眼的光芒和音爆。美国国家航空航天局（NASA）表示，这颗火球在北卡罗来纳州上空解体，产生了相当于10吨TNT的能量。目击者记录了这次事件，部分视频显示火球的景象。专家认为，可能有碎片落地，尤其是在蓝岭山脉周边的社区。如果发现任何太空碎片，可联系阿帕拉契州立大学地质系。​",
+                    "link": "https://www.yahoo.com/news/watch-massive-fireball-spotted-over-214349185.html"
+                },
+                {
+                    "title": "挪威公主玛莎·路易斯嫁给美国萨满",
+                    "image": "https://ichef.bbci.co.uk/news/1536/cpsprodpb/041c/live/a235af60-67ba-11ef-b38b-fded5622f26f.png.webp",
+                    "content": "挪威公主玛尔塔·路易丝与美国自称萨满的杜雷克·维雷特结婚，引发挪威社会的分歧。婚礼于西挪威的酒店举行，私人仪式仅有约350名宾客，媒体和公众的关注受限。公主及其新郎的商业活动与王室关系被批评为不当，特别是在他们公开的灵性信仰方面引起争议。玛尔塔·路易丝曾因灵性活动遭受批评，并在2018年关闭了她的“奇迹”学校。",
+                    "link": "https://www.bbc.com/news/articles/ce8dl28l0n1o"
+                }
+            ]
+        }
+    }
+}
+                
