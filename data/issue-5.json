@@ -1,0 +1,229 @@
+{
+    "id": 4,
+    "date": "2024年8月第5周",
+    "title": "马斯克宣布火星计划、OPENAI下一代模型、超强台风摩羯来袭",
+    "sections": {
+        "tech": {
+            "id": "tech",
+            "name": "科技",
+            "articles": [
+                {
+                    "title": "OpenAI计划2024年推出性能大幅提升的GPT Next模型",
+                    "image": "https://img.ithome.com/newsuploadfiles/2024/9/0e477e22-cbea-4c06-8476-d86f8da4ff2b.jpg?x-bce-process=image/format,f_auto",
+                    "content": "OpenAI Japan首席执行官长崎忠雄在KDDI峰会上宣布，公司将于2024年启动GPT Next计划，预计新模型性能将比GPT-4提高100倍。目前，OpenAI正在开发两个新的AI系统：专注于提高数学和编程能力的Strawberry模型，以及可能成为GPT-4继任者的Orion模型，而“Orion”可能成为 GPT-4 的真正继任者，从而成为“GPT Next”。",
+                    "link": "https://m.ithome.com/html/793288.htm"
+                },
+                {
+                    "title": "开源大模型新王者：Reflection 70B 超越 GPT-4o，自我纠错能力惊人！",
+                    "image": "https://www.qbitai.com/wp-content/uploads/replace/d9c136fabbfa9bd004c608689c8fa62f.png",
+                    "content": "Reflection 70B 作为一款新兴开源大模型，凭借独特的自我反思技术在多项基准测试中超越了 GPT-4o 等顶级闭源模型。该模型采用 Reflection-Tuning 训练方法，能够在推理过程中检测并纠正错误，大幅提升了准确性。在 GSM8K 数学测试中，Reflection 70B 取得了 99.2% 的惊人成绩，引发业界热议。",
+                    "link": "https://www.qbitai.com/2024/09/188032.html"
+                },
+                {
+                    "title": "AI模型有望提前数月预测大地震",
+                    "image": "https://static.cnbetacdn.com/article/2024/0907/64d90959fe63f95.bmp",
+                    "content": "阿拉斯加费尔班克斯大学研究人员开发出新型AI模型，可能在大地震发生前数月预测结果。该模型通过机器学习分析地震目录数据，识别异常低震级活动，预测大地震概率。研究以2018年安克雷奇和2019年加州里奇克雷斯特地震为例，发现大地震前约3个月出现异常活动。尽管前景可期，研究人员强调需进一步测试，并考虑地震预报的伦理和实际问题。错误的警报可能导致不必要的恐慌、经济混乱和公众信任的丧失，而预测失误则可能带来灾难性的后果。",
+                    "link": "https://www.cnbeta.com.tw/articles/tech/1444988.htm"
+                },
+                {
+                    "title": "德克萨斯大学向新生开放机器人技术课程",
+                    "image": "https://techcrunch.com/wp-content/uploads/2024/09/university-texas-in-brief.jpg",
+                    "content": "德州大学奥斯汀分校宣布开放本科机器人课程，允许高中生直接申请。这是美国首批允许新生入学时申请的荣誉课程，标志着机器人学不再局限于研究生项目。该课程与航空、电子、计算、计算机、机械工程等专业相关，旨在保持学生对机器人领域的兴趣。",
+                    "link": "https://techcrunch.com/2024/09/06/university-of-texas-opens-robotics-program-up-to-incoming-freshmen/"
+                },
+                {
+                    "title": "全新超强晶体管或将彻底改变电子技术",
+                    "image": "https://www.sciencealert.com/images/2024/08/ColouredTransistors.jpg",
+                    "content": "一项新型晶体管设备展示了极强的耐用性，可能改变我们日常使用的电子设备。该晶体管由超薄的氮化硼铁电材料制成，具备超快、超薄的特点，能承受至少1000亿次开关而无磨损。研究人员认为，这种技术未来有望提高手机、电脑等设备的性能和寿命，但实现大规模应用还需时间。",
+                    "link": "https://www.sciencealert.com/radical-new-super-tough-transistor-could-revolutionize-electronics"
+                },
+                {
+                    "title": "世界首台核钟(极高的时间精度)问世：令人难以置信的99.9999999%准确度挑战物理学",
+                    "image": "https://studyfinds.org/wp-content/uploads/2024/09/atomic-clock-1200x800.jpg",
+                    "content": "奥地利维也纳的科学家开发出世界首个核钟，利用铀核内的能量转换，比现有的原子钟更精准。该技术未来有望提升GPS精度、网络速度，并可能推动物理学新发现。核钟的精度达到13.8亿年仅误差0.02秒，虽然目前还在原型阶段，但预示着时间测量领域的巨大突破。原子钟之所以重要，主要是因为它提供了极高的时间精度和稳定性，这对现代技术和科学研究有至关重要的作用。",
+                    "link": "https://studyfinds.org/worlds-first-nuclear-clock/"
+                },
+                {
+                    "title": "中国超级雷达探测到吉萨金字塔上空的等离子气泡",
+                    "image": "https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/d8/images/canvas/2024/09/05/ec995dfb-bd42-4a84-acfb-7c27d1cd6c2a_679fef87.jpg?itok=4ISBSr5E&v=1725515759",
+                    "content": "中国科学家利用全球最强雷达首次在埃及金字塔和中途岛上空几乎同时检测到等离子体气泡。这种现象是由电离层中带电粒子突然消失引起的，可能干扰GPS和卫星通讯。通过去年建成的低纬度远程电离层雷达，科学家观测并实时追踪了这些由太阳风暴触发的等离子体气泡。",
+                    "link": "https://www.scmp.com/news/china/science/article/3277286/chinas-super-radar-detects-plasma-bubble-over-pyramids-giza"
+                },
+                {
+                    "title": "特斯拉官号称将于明年在中国推出FSD全自动驾驶",
+                    "image": "",
+                    "content": "特斯拉官方账号发布动态，将于明年第一季度在中国和欧洲推送FSD（有待监管部门批准）。",
+                    "link": "https://x.com/Tesla_AI/status/1831565197108023493"
+                },
+                {
+                    "title": "耶鲁研究揭示大脑如何在睡眠中高效处理多重经历",
+                    "image": "https://news.yale.edu/sites/default/files/styles/featured_media/public/yn-brain-dreams.jpg?itok=sadMg0Yd&c=63c708069b40ebe2338e72ce2f85998e",
+                    "content": "耶鲁科学家发现，大脑的海马体在睡眠中能够将一天内约15个不同的经历压缩成单个瞬间事件进行处理。这种能力允许大脑在睡眠中同时处理多个不相关的经历，而不会相互干扰。这一研究揭示了大脑如何以高效并行的方式编码和回放日常体验，有助于我们理解记忆、学习和认知功能的机制。",
+                    "link": "https://news.yale.edu/2024/08/14/sleep-it-how-brain-processes-many-experiences-even-when-offline"
+                },
+                {
+                    "title": "使用二分法，也就是对半分，解决猜数字问题",
+                    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiElRkalAf71qPuh9a1t0yhsoAO5ZPQ-mR3NpSBwwuYpdsbkASynXT_JOwyrOkzWUNJ1ZWGnArmU4tKHEQpsMVxe9s5h7qdXgZRaMprV8dV2X_0-dXG195Dsi7S3hnJknshVyiRIgKUXCRcy4RZcDv0tI_bWQd6OwzkdEfNavHTm8HV4NH4ZP4itg/w640-h250/bs-1.png",
+                    "content": "这段文字讨论了一个游戏，Ballmer让你猜一个1到100之间的数字，每次猜测后，他会告诉你高了还是低了。如果你在前几次猜中，你可以获得最多5美元，但如果猜的次数多了，你需要付钱给他。Ballmer声称这个游戏的期望值是负的，但经过计算，实际期望值是正的，为0.2美元。这意味着，如果Ballmer随机选择数字，长期来看你应该是盈利的。这种猜数字的游戏可以使用二分法（也称为折半查找）来提高猜测效率。二分法的核心思想是每次将可能的数字范围对半分，从中间开始猜测。根据Ballmer的提示（数字高或低），你可以迅速缩小范围，直到找到正确的数字。",
+                    "link": "https://blog.jgc.org/2024/09/steve-ballmers-binary-search-interview.html"
+                }
+            ]
+        },
+        "finance": {
+            "id": "finance",
+            "name": "经济",
+            "articles": [
+                {
+                    "title": "英特尔股价今年暴跌近 60%，或被道琼斯指数除名",
+                    "image": "https://img.ithome.com/newsuploadfiles/2024/9/78646822-f219-40a1-9357-af1adf30773e.jpg?x-bce-process=image/format,f_auto",
+                    "content": "芯片巨头英特尔正面临被踢出道琼斯工业平均指数（DJIA）的风险。作为 1999 年互联网泡沫时期加入该指数的首批两家科技公司之一（另一家为微软），英特尔如今的处境令人唏嘘。英特尔股价今年暴跌近 60%，成为道琼斯工业平均指数表现最差的公司，也是股价最低的公司，由于道琼斯指数采用的是价格加权的计算方式，英特尔股价对指数影响微乎其微（目前权重约0.32%）。",
+                    "link": "https://www.ithome.com/0/793/236.htm"
+                },
+                {
+                    "title": "芯片股表现不佳，英伟达股价下跌 4%",
+                    "image": "https://s.yimg.com/ny/api/res/1.2/1UlLQq3CtcN8OojlQV7mzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTUwMjtjZj13ZWJw/https://s.yimg.com/os/creatr-uploaded-images/2024-09/2e88c330-6c6b-11ef-bdbe-b860847501fc",
+                    "content": "英伟达最近的季度财报表现平平，未能延续之前的涨势，过去四个交易日股价已下跌约13%。其他半导体公司如博通（Broadcom，AVGO）也因第四季度销售预测不佳而股价下跌10%。ASML股价因荷兰政府对先进芯片制造设备实施出口限制而下跌5%。整体来看，市场对半导体行业的未来增长持怀疑态度。",
+                    "link": "https://finance.yahoo.com/news/nvidia-stock-tanks-4-amid-rough-week-for-chip-stocks-175109818.html"
+                },
+                {
+                    "title": "法国电信大亨加入字节跳动董事会",
+                    "image": "https://wx1.sinaimg.cn/orj360/001Nakaoly1ht84gtowtxj60jg0evgrl02.jpg",
+                    "content": "TikTok母公司字节跳动公司网站显示，Coatue Management创始人菲利普·拉方特（Philippe Laffont）已离开该公司董事会。与此同时，法国亿万富翁、伊利亚特电信集团（Iliad）创始人泽维尔·尼尔（Xavier Niel）加入字节跳动董事会。",
+                    "link": "https://weibo.com/1642634100/OuXiMy7Wu"
+                },
+                {
+                    "title": "一张病毒式传播的 AI 图片如何让一家墨西哥初创公司获得阿迪达斯的重要合同",
+                    "image": "https://techcrunch.com/wp-content/uploads/2024/09/W1A3065.jpg?resize=2048,1365",
+                    "content": "墨西哥初创公司Someone Somewhere通过AI技术将传统手工艺融入知名品牌产品中，成功吸引阿迪达斯等大公司合作，实现了业务的快速增长和全球扩展。",
+                    "link": "https://techcrunch.com/2024/09/07/how-a-viral-ai-image-catapulted-a-mexican-startup-to-a-major-adidas-contract/"
+                },
+                {
+                    "title": "《我的世界》大电影公布首个预告片",
+                    "image": "https://image.gcores.com/c9ee8b2672a0181b4db886e75c436655-1915-973.png?x-oss-process=image/resize,limit_1,m_lfit,w_1600/quality,q_90/format,webp",
+                    "content": "9 月 4 日，根据知名游戏《我的世界》改编的同名真人大电影公布了首支预告片。《我的世界》将讲述四位主角在方块世界中冒险的故事，影片的画面风格及基础设定均与游戏保持一致。",
+                    "link": "https://www.gcores.com/articles/187722"
+                }
+            ]
+        },
+        "Space": {
+            "id": "Space",
+            "name": "Space",
+            "articles": [
+                {
+                    "title": "马斯克火星移民计划启动！两年后无人飞船首发，20年内建成火星城市",
+                    "image": "https://wpimg-wscn.awtmt.com/3ff4709c-7947-4b08-8a56-be231f39a032.jpeg?imageView2/2/w/640",
+                    "content": "马斯克的火星梦正在逐步推进！他宣布：SpaceX 将在两年后，也就是下一个地球-火星发射窗口开启时，发射首批 Starship 飞船前往火星！",
+                    "link": "https://wallstreetcn.com/articles/3727345"
+                },
+                {
+                    "title": "波音星际航线飞船返回地球——没有搭载宇航员",
+                    "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2024-09-07-at-12-02-05-am.jpg?c=16x9&q=h_720,w_1280,c_fill",
+                    "content": "波音的Starliner舱在完成近三个月的国际空间站任务后成功返回地球，但由于技术问题，带回的却是空舱，导致两名宇航员需在空间站多待五至六个月。Starliner于9月7日凌晨在新墨西哥州成功着陆，标志着首次在美国陆地着陆的美国制造太空舱的成功。但因担心返航过程中出现的技术问题，NASA决定将其作为无人任务执行。",
+                    "link": "https://amp.cnn.com/cnn/2024/09/06/science/boeing-starliner-return-without-astronauts"
+                },
+                {
+                    "title": "马斯克掌控全球近三分之二活跃卫星",
+                    "image": "https://static.independent.co.uk/2024/09/06/14/starlink-map.jpg?quality=75&width=640&auto=webp",
+                    "content": "SpaceX最近发射第7000颗Starlink卫星后，埃隆·马斯克现已控制地球轨道上近三分之二的活跃卫星。据CelesTrak数据，SpaceX拥有6370颗活跃Starlink卫星，占运行中卫星62%以上。",
+                    "link": "https://www.independent.co.uk/tech/elon-musk-satellites-starlink-spacex-b2606262.html"
+                },
+                {
+                    "title": "约翰·惠勒：本周地球遭小行星撞击",
+                    "image": "https://cdn.forumcomm.com/dims4/default/7e11cb6/2147483647/strip/true/crop/650x433+8+0/resize/1680x1120!/format/webp/quality/90/?url=https%3A%2F%2Ffcc-cue-exports-brightspot.s3.us-west-2.amazonaws.com%2Finforum%2Fbinary%2FMeteor-crater-Shane-Torgerson-credit_binary_6702373.jpg",
+                    "content": "本周三，一颗直径约3英尺（类似一个半米多高的球）的小行星在菲律宾上空燃烧解体，部分碎片可能落入海洋。这颗名为2024 RW1的行星在进入大气层前被发现，并在撞击前九小时被公之于众。这次事件表明我们的行星探测系统运作良好，尽管这种小行星每年会有至少三次撞击地球。历史上，较大的行星撞击曾引发过大规模灭绝事件。",
+                    "link": "https://www.inforum.com/weather/john-wheeler-earth-was-hit-by-an-asteroid-this-week"
+                },
+                {
+                    "title": "“混沌之神”巨型小行星仍有可能撞击地球",
+                    "image": "https://www.hindustantimes.com/ht-img/img/2024/09/06/550x309/Science-Asteroid-Sighting-0_1725664791421_1725664813466.jpg",
+                    "content": "一个新的研究指出，巨型小行星“混沌之神”（99942 Apophis）的轨道可能会因为小行星的撞击而发生意外改变。尽管之前认为该小行星不太可能撞击地球，但加拿大天文学家保罗·维格特的研究表明，如果小物体撞击了“混沌之神”，它的轨道可能会发生戏剧性的变化。即使如此，撞击地球的几率仍然极低，少于二十亿分之一。该小行星将在2029年4月13日距离地球最近，预计最接近距离为1.83万公里。",
+                    "link": "https://www.hindustantimes.com/world-news/us-news/god-of-chaos-friday-13th-astronomic-scare-in-the-making-giant-asteroid-could-hit-earth-despite-previous-negations-101725628959518.html"
+                },
+                {
+                    "title": "新研究表明，月球上的火山活动发生的时间比我们想象的要近得多",
+                    "image": "https://dailygalaxy.com/wp-content/uploads/2024/09/Volcanic-Activity-on-the-Moon-Lasted-Longer-Than-We-Thought-Study-Suggests.jpg.webp",
+                    "content": "中国的嫦娥五号任务发现月球最近曾经历过火山活动，最早可能发生在1.2亿年前，这推翻了此前月球已经在超过10亿年前停止火山活动的观点。研究人员通过分析嫦娥五号带回的月球样本中的火山玻璃珠，发现这些珠子的年龄约为1.23亿年。这表明，月球的火山活动可能比之前认为的要持续得久。此发现将改变我们对月球火山活动历史的理解，并可能对未来的月球探测任务产生影响。",
+                    "link": "https://dailygalaxy.com/2024/09/volcanic-activity-moon-lasted-longer/"
+                },
+                {
+                    "title": "突破性发现：揭示太阳系外层的新天体",
+                    "image": "https://subarutelescope.org/en/results/2024/09/04/fig1e-20240904-science.jpg",
+                    "content": "通过日本的 Subaru 望远镜和新 Horizons 太空探测器的合作，科学家们发现了可能存在的新一群小天体，位于已知的库伊伯带之外。嫦娥望远镜的广角相机发现了239个新的库伊伯带天体，其中包括在70-90天文单位距离范围内的新群体。这一发现推翻了以往对太阳系形成的理解，表明太阳系的原始星云可能比之前认为的要大。这一发现将有助于我们了解太阳系的形成历史以及与系外行星系统的比较。",
+                    "link": "https://subarutelescope.org/en/results/2024/09/04/3440.html"
+                },
+                {
+                    "title": "神龙：中国秘密太空飞机在轨运行 268 天后返回",
+                    "image": "https://interestingengineering.com/_next/image?url=https%3A%2F%2Fcms.interestingengineering.com%2Fwp-content%2Fuploads%2F2024%2F09%2Fthyristors-34.png&w=1200&q=75",
+                    "content": "中国的秘密航天飞机“神龙”在完成268天的轨道测试后，于9月5日安全返回地球。这是其第三次轨道测试，目的是验证可重复使用技术并进行太空科学实验。此前，美国曾检测到该航天飞机释放的未知物体。",
+                    "link": "https://interestingengineering.com/space/shenlong-china-secretive-spaceplane-orbital-test"
+                },
+                {
+                    "title": "2022年，NASA的DART探测器撞击产生的碎片可能会到达地球",
+                    "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/01/hera_approaching_didymos_asteroids/24679985-1-eng-GB/Hera_approaching_Didymos_asteroids_article.gif",
+                    "content": "2022年，NASA的DART探测器撞击了小行星Dimorphos，改变了其围绕Didymos的大行星轨道，并抛射出大量碎片。最新模型预测，这些碎片中的小陨石可能在未来几十年内到达火星和地球，甚至可能产生观测到的流星雨。ESA的Hera探测器将于2026年底到达Dimorphos，进一步研究撞击结果。预计如果碎片到达地球，它们会在大气中燃烧，产生流星雨。",
+                    "link": "https://www.esa.int/Space_Safety/Hera/Debris_from_DART_impact_could_reach_Earth"
+                },
+                {
+                    "title": "蓝色起源巨型新火箭的首航不会为 NASA 服务",
+                    "image": "https://techcrunch.com/wp-content/uploads/2024/09/blue-origin-new-glenn.jpeg?resize=1280,716",
+                    "content": "蓝色起源公司（Blue Origin）的New Glenn火箭首次发射计划推迟至2025年春季。原定于10月发射NASA的ESCAPADE探测器前往火星，但因技术和成本问题，NASA决定推迟发射。新火箭的首飞将改为在11月发射蓝色起源公司的技术设备，并作为Space Force国家安全空间发射（NSSL）计划的认证飞行。NASA的推迟决定主要是由于燃料处理的风险和技术挑战。",
+                    "link": "https://techcrunch.com/2024/09/06/the-maiden-voyage-of-blue-origins-massive-new-rocket-wont-be-for-nasa/"
+                }
+            ]
+        },
+        "global": {
+            "id": "global",
+            "name": "全球",
+            "articles": [
+                {
+                    "title": "超强台风“摩羯”席卷中国和越南",
+                    "image": "https://static.zaobao.com.sg/s3fs-public/styles/article_large_full/public/articles/2024/09/08/66dbef2254b9b526bcc46c10_0.jpg?VersionId=TCTfQaD_YlJGZYjQ3affdLcRGK._1Gcf&itok=9YNakD2A",
+                    "content": "超强台风“摩羯”在横扫中国海南多地后又在广东西南部的徐闻县二次登陆，星期六（9月7日）再度西移席卷越南北部，在中国和越南造成至少八人遇难。",
+                    "link": "https://www.zaobao.com.sg/news/china/story20240908-4657319"
+                },
+                {
+                    "title": "海南应急管理厅厅长：“摩羯”破坏之强超乎想像，全省52万人受灾",
+                    "image": "https://imagecloud.thepaper.cn/thepaper/image/321/267/834.jpg",
+                    "content": "9月7日晚，海南省应急管理厅厅长番绍立介绍台风“摩羯”灾情时表示，“摩羯” 是继2014年台风“威马逊”之后登陆我国的最强台风，也是建国以来登陆我国大陆地区的最强秋台风。",
+                    "link": "https://www.thepaper.cn/newsDetail_forward_28668221"
+                },
+                {
+                    "title": "地球经历了有记录以来最热的夏天——连续第二年",
+                    "image": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2024/09/sun_heat_wave_thailand_gettyimages-2149644773.jpg",
+                    "content": "2024年夏季全球气温再次打破记录，比1991至2020年平均气温高出0.69摄氏度，比2023年夏季高出0.03摄氏度。这使得今年有可能成为有记录以来最热的一年。地球逐渐接近《巴黎协定》设定的1.5摄氏度阈值，专家警告说，这可能导致“全球异常”现象，包括极端天气频发和气候变化带来的各种挑战。2024年8月地球的平均气温达到16.82摄氏度，比工业化前的平均气温高出1.51摄氏度。科学家指出，极端热浪主要是由于化石燃料燃烧引起的全球变暖。",
+                    "link": "https://www.salon.com/2024/09/07/earth-has-endured-its-hottest-summer-ever-recorded--for-the-second-year-in-a-row/"
+                },
+                {
+                    "title": "全中国60周岁及以上老年人口占比已超20%",
+                    "image": "https://www.stdaily.com/web/gdxw/pic/2024-09/04/223952_6ae6d182-326e-492c-849b-16ec730f39ae.jpeg",
+                    "content": "近日，民政部官网发布了《2023年民政事业发展统计公报》。《公报》披露，截至2023年底，全国60周岁及以上老年人口29697万人，占总人口的21.1%，其中65周岁及以上老年人口21676万人，占总人口的15.4%。",
+                    "link": "https://www.stdaily.com/web/gdxw/2024-09/04/content_223952.html"
+                },
+                {
+                    "title": "苏丹(非洲埃及南部)的无政府状态导致了 40 年来最严重的饥荒",
+                    "image": "https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20240831_FBP001.jpg",
+                    "content": "根据《经济学人》2024 年 8 月 29 日的报道，苏丹的无政府状态导致了 40 年来最严重的饥荒。联合国已正式宣布在苏丹的扎姆扎姆难民营发生全面饥荒。",
+                    "link": "https://www.economist.com/briefing/2024/08/29/anarchy-in-sudan-has-spawned-the-worlds-worst-famine-in-40-years"
+                },
+                {
+                    "title": "教皇方济各(基督教全球领导人)抵达巴布亚新几内亚，教皇的访问被期待能激发当地民众的信仰和希望。",
+                    "image": "https://www.catholicnewsagency.com/storage/image/fra3701.jpg?w=600",
+                    "content": "教皇方济各于9月6日抵达巴布亚新几内亚首都莫尔斯比港，开始其为期12天的亚洲和大洋洲使节之行。这是教皇第二次访问该国。此次访问包含与当地民众和天主教社区的会面，并将在杰克逊国际机场举行欢迎仪式。教皇还计划在圣约翰·盖斯体育场庆祝弥撒。此前，教皇在印尼访问期间曾有遭袭的报告，但已安全完成行程。在新几内亚，教皇的访问被期待能激发当地民众的信仰和希望。",
+                    "link": "https://www.catholicnewsagency.com/news/259143/pope-francis-arrives-in-papua-new-guinea-amid-reports-of-failed-attack-and-arrests-in-indonesia"
+                },
+                {
+                    "title": "泰勒·弗里茨赢得比赛，成为自 2006 年以来首位进入美国网球公开赛决赛的美国男子选手",
+                    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5291x3528+0+0/resize/1100/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F49%2F6d%2F38bf497d4c8aab4cfa8a1d49db50%2Fap24251114427864.jpg",
+                    "content": "在美国公开赛男单半决赛中，26岁的加州选手泰勒·弗里茨（Taylor Fritz）战胜了来自马里兰州的弗朗西斯·蒂亚福（Frances Tiafoe），以4-6, 7-5, 4-6, 6-4, 6-1晋级决赛。这是19年来首度出现的美国男选手对决。弗里茨将在决赛中对阵世界排名第一的意大利选手扬尼克·辛纳（Jannik Sinner）。蒂亚福在比赛中体力不支，最终遗憾落败。弗里茨表示，这次胜利是他努力的结果，并期待决赛中的表现。",
+                    "link": "https://www.npr.org/2024/09/07/g-s1-21386/taylor-fritz-wins-american-us-open-final-2006"
+                },
+                {
+                    "title": "乌鸦比我们想象的更聪明",
+                    "image": "https://assets.nautil.us/sites/3/nautilus/Castleberry_HERO.png?q=65&auto=format&w=1600",
+                    "content": "研究发现，戴帽乌鸦（hooded crow）能够像人类一样形成“心理模板”，记住物体的形状和大小，并重新制作出类似的物体。这项研究表明，形成和使用心理模板的能力在乌鸦科鸟类中可能比较普遍，甚至可能在动物王国中更为广泛。这种能力有助于动物制造工具，进而提高生存机会。类似的能力之前在新喀鸩乌鸦和某些鹦鹉中也有发现。研究还发现，乌鸦的这种能力可能与其年龄和经验有关，年长的乌鸦在制造匹配物体方面表现更好。",
+                    "link": "https://nautil.us/crows-are-even-smarter-than-we-thought-820066/"
+                }
+            ]
+        }
+    }
+}
