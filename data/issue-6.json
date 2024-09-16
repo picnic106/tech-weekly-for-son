@@ -1,0 +1,133 @@
+{
+    "id": 6,
+    "date": "2024年9月第2周",
+    "title": "SpaceX北极星黎明号、OpenAI发布新模型、上海遭遇49年以来最强台风",
+    "sections": {
+        "tech": {
+            "id": "tech",
+            "name": "科技",
+            "articles": [
+                {
+                    "title": "OpenAI发布o1最强推理模型，进入美国奥数500名，向最强人工智能迈进",
+                    "image": "https://images.ctfassets.net/kftzwdyauwt9/7fCp1d7GJ0xkeVjL8mpCIv/71cd158887e4c0715112b26744e612fd/win_rate_matplotlib.png?w=3840&q=80&fm=webp",
+                    "content": "OpenAI推出的新模型o1-preview在推理和解决复杂问题方面取得了重大进展。它在数学和科学问题上表现超越了人类专家，并在编程比赛中表现出色，超过93%的参赛者。o1通过强化学习提升了推理能力，使用“思维链”逐步解决问题。这种方法不仅提升了模型的能力，还增强了安全性。虽然模型在某些自然语言任务上的表现不如前代，但它在数据分析、编码和数学方面深受用户喜爱。未来版本将进一步改进推理和对齐能力。",
+                    "link": "https://openai.com/index/learning-to-reason-with-llms/"
+                },
+                {
+                    "title": "数学家陶哲轩（Terence Tao）测试OpenAI o1模型，已经接近于一名有潜力的研究生水平！",
+                    "image": "",
+                    "content": "这篇文章分享了作者对OpenAI新模型GPT-o1的使用体验。相比之前的模型，o1在推理和数学问题上有了显著提升。作者通过几个实验展示了o1在复杂数学任务、编程问题以及语义搜索上的能力。虽然o1在复杂研究任务上仍有不足，但已经接近于一名有潜力的研究生水平。作者还特别指出，AI模型与人类研究生不同，AI无法像学生那样成长和学习。",
+                    "link": "https://mathstodon.xyz/@tao/113132502735585408"
+                },
+                {
+                    "title": "李飞飞创业公司融资2.3亿美元，致力构建“大型世界模型”",
+                    "image": "https://imagecloud.thepaper.cn/thepaper/image/322/236/548.jpg",
+                    "content": "斯坦福大学教授李飞飞的创业公司有了新进展。9月13日，其创立的空间智能初创公司World Labs正式宣布完成2.3亿美元的巨额融资，投资方包括硅谷知名投资机构a16z、NEA、加拿大风投公司Radical Ventures，以及英伟达公司的风险投资部门等。",
+                    "link": "https://www.thepaper.cn/newsDetail_forward_28745447"
+                }
+            ]
+        },
+        "global": {
+            "id": "global",
+            "name": "全球",
+            "articles": [
+                {
+                    "title": "全国人大常委会通过渐进式延迟法定退休年龄决定",
+                    "image": "https://mmbiz.qpic.cn/mmbiz_jpg/azXQmS1HA7lp1nw0Kj1Ssd8CbKC9fr1ZnhtNWiaJicKrLic6BHDYUnDM08qxNcL583SLT0tSokPWR1vgkvpBYnmgA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1",
+                    "content": "全国人大常委会正式通过了关于实施渐进式延迟法定退休年龄的决定，将于2025年1月1日起施行。决定明确，将用15年时间逐步将男职工退休年龄从60岁延至63岁，女职工从50岁、55岁分别延至55岁、58岁。实施过程中将坚持小步调整、弹性实施、分类推进、统筹兼顾的原则。决定还批准了《国务院关于渐进式延迟法定退休年龄的办法》，对具体实施细节作出规定。",
+                    "link": "https://mp.weixin.qq.com/s/pgfllDTfEtt9t9B8vavctQ"
+                },
+                {
+                    "title": "教宗暗批特朗普、哈里斯,表明期待访华",
+                    "image": "https://static.zaobao.com.sg/s3fs-public/styles/article_large_full/public/articles/2024/09/15/ASIA-OCEANIA-RELIGION-POPE-182230_0.jpg?VersionId=LqlfvsifiOAUQUb4ku_Zlxd6ozjPShnW&itok=D5EqKrwM",
+                    "content": "罗马天主教教宗方济各批评美国共和党总统候选人特朗普驱逐移民，以及民主党候选人哈里斯支持堕胎都是“违背生命”，选民须在年底的选举中“两害相权取其轻”。教宗也表明很希望能访问中国。",
+                    "link": "https://www.zaobao.com.sg/news/world/story20240914-4726650"
+                },
+                {
+                    "title": "2024年搞笑诺贝尔奖（Ig Nobel Prize）在麻省理工学院（MIT）公布了获奖名单",
+                    "image": "",
+                    "content": "Ig 诺贝尔奖（Ig Nobel Prize）是一个模仿诺贝尔奖的搞笑奖项，旨在表彰那些“先让人发笑，后让人思考”的科研成果。自1991年起，由科学幽默杂志《不可思议研究年报》（Annals of Improbable Research）主办。颁奖典礼通常在每年 9 月于哈佛大学或麻省理工学院（MIT）举行，颁奖嘉宾多为真正的诺贝尔奖得主。",
+                    "link": "https://www.solidot.org/story?sid=79253"
+                },
+                {
+                    "title": "挪威发现1100年后维京宝藏",
+                    "image": "https://medievalists.gumlet.io/wp-content/uploads/2024/09/mnet24091205.jpg?format=webp&dpr=1.0&q=70&compress=true&quality=80&w=768",
+                    "content": "挪威考古学家在该国西南部发现了一处超过1100年历史的维京宝藏，包含四个重银手镯。这一发现是在修建农用道路的例行考古调查中意外发现的，考古学家起初误以为是铜线。进一步挖掘揭示了一个大型维京农场遗址，可能在9世纪的动荡中被烧毁，居民或在逃亡时匆忙藏匿宝物。这些银饰可能通过贸易或维京远征获得，因未受扰动，将为维京时代的生活提供全新洞见。",
+                    "link": "https://www.medievalists.net/2024/09/viking-treasure-uncovered-after-1100-years-in-norway/"
+                },
+                {
+                    "title": "《黑神话：悟空》章节动画原版合集《六样情》9 月 17 日上线B站",
+                    "image": "",
+                    "content": "《黑神话：悟空》游戏在每一章结束后都有一段精美的动画，也是玩家津津乐道的内容，这一章节动画原版合集《六样情》将于 9 月 17 日中午 12 点独家上线B站。",
+                    "link": "https://www.bilibili.com/bangumi/media/md22892198"
+                }
+            ]
+        },
+        "Space": {
+            "id": "Space",
+            "name": "Space",
+            "articles": [
+                {
+                    "title": "SpaceX“北极星黎明号”任务的“龙”飞船成功溅落在佛罗里达州海面",
+                    "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-20960678-1783496-917-still.jpg?c=16x9&q=w_1280,c_fill",
+                    "content": "“北极星黎明号”任务的“龙”飞船成功溅落在佛罗里达州海面，标志着首次商业太空行走任务结束。亿万富翁贾里德·艾萨克曼（Jared Isaacman）和SpaceX工程师萨拉·吉利斯（Sarah Gillis）于2024年9月12日成功完成了世界首次商业太空行走，开创了太空探索的新纪元。",
+                    "link": "https://www.cnn.com/2024/09/15/science/spacex-polaris-dawn-splashdown-landing/index.html"
+                },
+                {
+                    "title": "韦伯望远镜观察银河系边缘，看到令人惊叹的景象",
+                    "image": "https://helios-i.mashable.com/imagery/articles/06RbQsO4KJK4wyUQSeJGAUv/hero-image.fill.size_1248x702.v1726173933.png",
+                    "content": "詹姆斯·韦布太空望远镜观测到银河系外缘的星云中，充满了新星形成的活动。科学家在这一区域发现了多个年轻恒星喷射物质的现象，宛如“烟花”般四处喷发。这一发现位于距银河中心超5.8万光年的“极端外银河”，为理解不同环境下恒星形成提供了新见解。韦布望远镜通过其强大的红外视野，揭示了宇宙深处的星系与早期宇宙的奥秘。",
+                    "link": "https://mashable.com/article/james-webb-space-telescope-extreme-outer-galaxy-image"
+                },
+                {
+                    "title": "美国宇航局火箭证实地球隐藏电场的存在",
+                    "image": "https://gdb.voanews.com/e91e0609-0df5-4026-9c15-4f49dab23ce3_cx2_cy13_cw95_w1023_r1_s.png",
+                    "content": "美国航天局NASA证实了围绕地球存在的电场，这一发现由2022年5月发射的名为“Endurance”的火箭提供数据支持。该电场被称为“复极电场”，科学家认为它是极地风的主要驱动力，能够将带电粒子从地球大气层送入太空。该电场的确认有助于理解地球及其他行星的大气演化，对未来探索具有重要意义。NASA的研究表明，这种电场能够抵消地球的重力作用，推动大气层中的粒子以超音速向太空移动。",
+                    "link": "https://learningenglish.voanews.com/a/nasa-rocket-confirms-existence-of-earth-s-hidden-electric-field/7782117.html"
+                },
+                {
+                    "title": "美国宇航局发布小行星警告，流星以每小时 19,000 英里的速度与地球擦肩而过",
+                    "image": "https://www.gbnews.com/media-library/an-asteroid-as-big-as-a-skyscraper-looks-set-to-pass-within-1-7-million-miles-of-earth-in-just-hours.jpg?id=51284662&width=1800&quality=75",
+                    "content": "NASA警告，一颗摩天大楼大小的小行星2024 ON将在下周接近地球。该小行星直径约220-480米，以每小时19,685英里的速度飞行，被列为“潜在危险”物体。尽管如此，NASA表示它不会对地球构成威胁，预计它将距离地球170万英里，约为月球距离的两倍。NASA继续密切监控该小行星，但由于其距离较远，肉眼不可见。",
+                    "link": "https://www.gbnews.com/science/asteroid-warning-nasa-meteor-narrowly-miss-earth"
+                }
+            ]
+        },
+        "weather": {
+            "id": "weather",
+            "name": "气候",
+            "articles": [
+                {
+                    "title": "台风“贝碧卡”袭击上海，为1949年以来最强台风",
+                    "image": "https://dims.apnews.com/dims4/default/46b1432/2147483647/strip/true/crop/6000x4000+0+0/resize/1440x960!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F00%2F61%2Fb66707858c41cac35ebd8ad719b0%2Fab947fe2cfda4523bd96889c3efd015f",
+                    "content": "“贝碧嘉”目前已达台风级，而且台风核心区对流发展旺盛，加上高海温的环境，强度还将继续增强，并可能在登陆前达到强度顶峰，这次“贝碧嘉”强度可能接近1949年以来登陆上海最强的台风Gloria。",
+                    "link": "https://typhoon.slt.zj.gov.cn/wap.htm"
+                },
+                {
+                    "title": "洪水袭击中欧和东欧，堪称“灾难”",
+                    "image": "https://static.zaobao.com.sg/s3fs-public/styles/article_large_full/public/articles/2024/09/15/2024-09-14T202930Z542877816RC2G0AANTZ4JRTRMADP3EUROPE-WEATHER-CENTRAL-EUROPE-FLOODS_1.JPG?VersionId=wD9m59mlUn4VOU6NTgS0433dfFRCSkwH&itok=GIAgNJyY",
+                    "content": "中欧和东欧大部分地区连日遭遇暴雨，引发数十年来最严重的洪灾，各国进入高度戒备状态。上星期四（9月12日）开始，风暴波瑞斯（Boris）袭击奥地利、捷克、匈牙利、罗马尼亚和斯洛伐克等国，捷克和波兰更遭遇近30年来最严重的洪灾。",
+                    "link": "https://www.zaobao.com.sg/news/world/story20240915-4730015"
+                },
+                {
+                    "title": "美国宣布对华新一轮高关税措施，多项将于9月27日生效",
+                    "image": "",
+                    "content": "美国贸易代表办公室（USTR）宣布了一系列针对中国进口商品的高额关税措施，其中最引人注目的是对电动汽车征收100%的关税。多项关税将于2024年9月27日生效，具体包括：对中国电动汽车征收100%关税、对太阳能电池征收50%关税，以及对钢铁、铝、电动车电池和关键矿产征收25%关税。",
+                    "link": "https://finance.yahoo.com/news/exclusive-us-locks-steep-china-100639622.html"
+                },
+                {
+                    "title": "国际油价暴跌 创5年来最低！加满一箱油将节省16元",
+                    "image": "https://n.sinaimg.cn/spider20240916/202/w600h402/20240916/2ea2-4ee3c2b82789de95280d2a3690e85718.jpg",
+                    "content": "近期国际油价震荡幅度较大。9月10日国际油价遭遇大跌，当天收盘，纽约商品交易所10月交货的轻质原油期货（WTI）价格下跌2.96美元，收于每桶65.75美元，跌幅为4.31%。",
+                    "link": "https://finance.sina.com.cn/tech/roll/2024-09-16/doc-incpimqs3882025.shtml"
+                },
+                {
+                    "title": "分析师称中国经济正在经历“缓慢、痛苦、艰难的调整”",
+                    "image": "https://image.cnbcfm.com/api/v1/image/108024866-1724422380419-gettyimages-2167210138-AFP_36EP7CN.jpeg?v=1724422422&w=1480&h=833&ffmt=webp&vtcrop=y",
+                    "content": "由于中国近期发布的一系列经济数据不佳，分析师纷纷下调了对中国全年GDP增长的预期。经济学家普拉萨德表示，中国经济下半年前景不乐观，房价长期问题和内需短期问题，尤其是私人投资和家庭消费表现不佳。尽管中国政府在应对房地产市场下行时避免了系统性金融危机，但经济调整仍然缓慢痛苦。8月零售销售、工业生产和城市投资增长均低于预期，失业率上升，房价跌幅创九年新高。",
+                    "link": "https://www.cnbc.com/2024/09/16/chinas-economy-is-going-through-a-slow-painful-grinding-adjustment-analyst-says.html"
+                }
+            ]
+        }
+    }
+}
