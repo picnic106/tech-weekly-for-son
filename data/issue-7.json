@@ -1,0 +1,162 @@
+{
+    "id": 7,
+    "date": "2024年9月第4周",
+    "title": "OpenAI朝AI第3阶段迈进、以色利情报机构摩萨德黑入寻呼机、中国经济重大新政",
+    "sections": { 
+        "tech": {
+            "id": "tech",
+            "name": "科技",
+            "articles": [
+                {
+                    "title": "OpenAI 朝 AI 第 3 阶段迈进，正招募人才组建“多智能体”团队",
+                    "image": "https://img.ithome.com/newsuploadfiles/2024/9/541adffd-9ce5-4f9c-962a-4447c210dde5.jpg?x-bce-process=image/format,f_auto",
+                    "content": "OpenAI 在发布 o1 AI 模型之后，下一步会怎么走？该公司研究员诺姆・布朗（Noam Brown）在 X 平台给出了答案，组建“多智能体”multi-agent 研究团队。根据 OpenAI 公布五级量表，最新推出的 o1 模型处于第二阶段，即所谓的“推理者”（reasoners），而开发 multi-agent 符合第三阶段的目标要求。",
+                    "link": "https://www.ithome.com/0/797/345.htm"
+                },
+                {
+                    "title": "介绍了名为 AnySkin 的一种用于机器人触觉的皮肤传感器。",
+                    "image": "https://any-skin.github.io/static/images/anyskin_fig1_portrait.png",
+                    "content": "AnySkin 是一种新型触觉传感器，解决了多功能性、可替换性和数据可重用性等关键问题，使触觉感知的应用更加方便。它基于 ReSkin 的简化设计，将感应电子元件与感应界面分离，安装就像给手机戴壳、接充电器一样简单。更重要的是，AnySkin 首次实现了学习操作策略在不同传感器实例间的通用性。知道这个意义所在吗？你知道模拟人体触觉有多难吗？",
+                    "link": "https://any-skin.github.io/"
+                },
+                {
+                    "title": "泰坦号潜艇残骸画面首次公布，致命内爆造成 5 人遇难",
+                    "image": "https://q7.itc.cn/q_70/images03/20240918/41d3765253354d54a0d7fc70c86fc5ad.jpeg",
+                    "content": "由美国海洋之门探险公司（OceanGate）运营的泰坦号潜艇于 2023 年 6 月 18 日潜入大西洋，旋即失联。历经 5 日搜救后，美国海岸警卫队于 2023 年 6 月 23 日发布声明，在距泰坦尼克号船艏约 500 米的海底发现泰坦号潜艇残骸，潜艇发生“灾难性内爆”，5 名乘员悉数遇难，潜艇制造商OceanGate Expeditions的CEO斯托克顿・拉什也在其中。昨日，美国海岸警卫队首次公布了泰坦号发生致命内爆后的残骸画面。美国海岸警卫队将在本周和下周举行听证会，涵盖收集到的所有证据，以及前海洋之门雇员和专家证人的证词。",
+                    "link": "https://youtube.com/watch?v=94yDz8RLELc"
+                },
+                {
+                    "title": "1870 年，瑞利勋爵利用油和水来计算分子的大小",
+                    "image": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f9752ed-6ba9-460d-945c-03eaf39d4d08_1200x800.png",
+                    "content": "雷利勋爵在X射线和显微镜发明之前，通过油、水和简单的计算，估算出了单个分子的大小。他的灵感源自本杰明·富兰克林1770年左右的实验。当时，富兰克林在伦敦观察到，船只向海面抛洒油脂可以平息波浪。他在克拉珀姆公园的池塘上重复了这个实验，用一茶匙油使水面平滑如镜。虽然富兰克林没有意识到其中的分子学意义，但一个多世纪后，雷利通过类似的实验，精确测量油膜厚度，首次计算出单个分子的大小，大约为1.63纳米。这展示了简单实验也能带来深刻的科学发现。",
+                    "link": "https://www.atomsonly.news/p/franklin-oil"
+                },
+                {
+                    "title": "马斯克确认加州时间10月10日发布特斯拉无人驾驶出租车",
+                    "image": "https://pbs.twimg.com/media/GYXh1NRWMAA4wgV?format=jpg&name=large",
+                    "content": "马斯克确认加州时间10月10日发布特斯拉无人驾驶出租车",
+                    "link": "https://x.com/elonmusk/status/1839124331709751451"
+                }
+                
+            ]
+        },
+        "Space": {
+            "id": "Space",
+            "name": "Space",
+            "articles": [
+                {
+                    "title": "SpaceX计划两年内向火星发射五艘无人星舰",
+                    "image": "https://www.reuters.com/resizer/v2/CSU4LOUJ4VPMNB3QPMDSODYHNE.jpg?auth=7d89e66e3ead96510b72bb5ae83dcaf2fcec1db39c9f026c32427e933e35c103&width=1080&quality=80",
+                    "content": "Elon Musk 在 X上面表示，SpaceX计划在未来两年内向火星发射大约五艘无人星舰。作为SpaceX长期目标的一部分，目的是最终在火星上建立一个自给自足的城市。首次载人任务的时间表将取决于这些无人任务的成功与否。如果一切顺利，载人任务将在无人任务成功后的四年内启动。不过，马斯克也提到，如果遇到挑战，载人任务可能会再推迟两年。",
+                    "link": "https://www.reuters.com/science/musk-says-spacex-plans-launch-about-five-uncrewed-starships-mars-two-years-2024-09-22/"
+                },
+                {
+                    "title": "星际飞船重型助推器残骸海上打捞...看起来像一部科幻电影场景，但这绝非虚构。",
+                    "image": "https://n.sinaimg.cn/spider20240924/716/w970h546/20240924/7fc4-93d1ea90fbae473772c6c4082a820f85.png",
+                    "content": "照片中的超级重型助推器部件来自 6 月的发射任务，SpaceX 此前宣布此次发射取得圆满成功。星舰达到了轨道速度，并且飞船和超级重型助推器在穿过地球大气层后都幸存了下来，完好无损地落入水中 —— 飞船落入印度洋，超级重型助推器落入墨西哥湾。",
+                    "link": "https://finance.sina.com.cn/tech/digi/2024-09-24/doc-incqfwyn9228579.shtml"
+                },
+                {
+                    "title": "中国探月工程持续推进，将建设有无线网的国际月球科研站",
+                    "image": "https://cms-emer-res.cctvnews.cctv.com/image/1005/process/4a5547f4f35f4264a0cb497684df9ef4.png",
+                    "content": "国家航天局今天宣布，继嫦娥六号任务后，中国将在2026年发射嫦娥七号，2028年前后发射嫦娥八号，旨在为国际月球科研站打基础。嫦娥七号将对月球南极进行资源勘测，嫦娥八号将验证资源的就地利用技术，为未来的科研站奠定基础。国际月球科研站分为两个阶段，基本型建设预计在2035年前完成，拓展型建设将于2050年前完成。国家航天局探月与航天工程中心副主任关锋指出，嫦娥八号要考虑通讯的能力，在月球上肯定会有无线网、能源，至于能不能种菜，科学家们还在研究，嫦娥八号有可能会搞这方面的科学研究。",
+                    "link": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=14664507605846252844"
+                }
+                
+            ]
+        },
+        "Global": {
+            "id": "Global",
+            "name": "全球",
+            "articles": [
+                {
+                    "title": "以色列情报机构摩萨德，通过黑客入侵便携式寻呼机，导致黎巴嫩发生一系列寻呼机爆炸事件",
+                    "image": "https://static01.nyt.com/images/2024/09/17/multimedia/17mideast-crisis-header-430pm-kqmc/17mideast-crisis-header-430pm-kqmc-superJumbo.jpg?quality=75&auto=webp",
+                    "content": "当地时间2024年9月17日15:30 左右，黎巴嫩真主党使用的数千台寻呼机同时在黎巴嫩和叙利亚爆炸。至少 16 人死亡，超过 2750 人受伤，其中包括真主党成员和平民。了解情况的匿名官员称，寻呼机被编程在爆炸前发出几秒钟的哔哔声。这一系列爆炸事件被认为是以色列情报机构摩萨德所为，摩萨德利用过类似的手段去杀死哈马斯的炸弹制造者，通过社会工程方法将含有炸药的手机送到目标手中然后引爆。这一次的规模显然远超以往，Edward Snowden 认为这将开启极为危险的先例，没有人将是安全的。",
+                    "link": "https://www.nytimes.com/live/2024/09/17/world/israel-hamas-war-news"
+                },
+                {
+                    "title": "地球七成人口可能会在未来二十年经历极端气候",
+                    "image": "",
+                    "content": "《自然·地球科学》最新建模研究显示，在高排放场景下，未来 20 年里全球 70% 的人口可能都会经历极端天气。但科学家认为，如能实行有力缓解措施，减少温室气体排放，受影响比例预计可减少至全球人口的 20%。位于挪威的国际气候与环境研究中心团队使用大型气候模型模拟集合，研究了极端降雨和气温在未来 20 年的变化率。他们估计，在高排放场景下，大部分热带和亚热带地区（包含 70% 的全球人口）未来 20 年将经历较高的极端气候和降雨变化率。但在有力缓解排放的场景下，受这些趋势影响的全球人口将减少至 20%。研究指出，世界大多数地方都会经历工业革命前不太可能发生的气温变化趋势。北方高纬度、亚洲南部和东部以及赤道非洲也会经历急速的降水变化。",
+                    "link": "https://www.nature.com/articles/s41561-024-01511-4"
+                },
+                {
+                    "title": "中日双方就福岛第一核电站核污染水排海问题达成共识",
+                    "image": "",
+                    "content": "双方同意在国际原子能机构框架下设立长期国际监测安排，确保中国等利益攸关国能够有效参与并进行独立取样监测。在有效参与国际监测活动后，中方将根据科学证据逐步调整相关措施，恢复符合规准的日本水产品进口。",
+                    "link": "https://www.fmprc.gov.cn/wjbxw_new/202409/t20240920_11493501.shtml"
+                },
+                {
+                    "title": "北京大学代表队获第 48 届国际大学生计算机程序设计竞赛全球总冠军，最近四届两冠两亚",
+                    "image": "https://n.sinaimg.cn/spider20240923/145/w696h1049/20240923/7d4e-954fd71f940761b670dc9803eecf25d2.jpg",
+                    "content": "北京大学代表队凭借最高解题数与最少用时再获第 48 届国际大学生程序设计竞赛全球总决赛 ICPC WF (ICPC World Finals)全球总冠军。在 ICPC 竞赛中，每支队伍拥有 1 台电脑，需要在 5 个小时内使用 C / C++、Java、Kotlin 或 Python3 中的任意一种编程语言，解决 10 个左右问题。",
+                    "link": "https://finance.sina.com.cn/tech/digi/2024-09-23/doc-incqcptt5177414.shtml"
+                }
+                
+            ]
+        },
+        "Game": {
+            "id": "Game",
+            "name": "游戏",
+            "articles": [
+                {
+                    "title": "美国投行华裔：不要用“卷”来给自己的懒惰找借口，那些有钱人比你努力得多。",
+                    "image": "",
+                    "content": "有个podcast，采访在美国的投行工作的华裔，他不认同中国卷的贬义，他说别人既然比你有钱比你有成就，就是他比你付出了更多的努力，甚至多的多。如果要说卷，美国人卷得更多，起早贪黑比中国卷多了,他举了一个例子是美国的按摩业，早上三点起床，11点睡觉，几乎1年就能买奔驰。在美国的这个社会，只要你勤奋，够卷，就可以生活的很好。既然如此，你要超过他，你就必须要比他更努力，更卷。不要被中国社会的卷，来给自己的懒惰找借口。一步一步走，努力就是了。",
+                    "link": ""
+                },
+                {
+                    "title": "《人类简史》作者赫拉利：当今世界大部分信息都是垃圾，我们要进行「信息筛选」。",
+                    "image": "",
+                    "content": "赫拉利认为如今信息获取渠道众多，但大部分都是垃圾信息。甚至大部分是专门洗脑信息，你不要一股脑全盘接收，需要进行筛选，如果没有筛选能力，就不要去接收这些信息。专注做自己的事情就好，比如读书就专门读书，工作就专门工作。其实大部分信息对自己毫无用处，一点意义都没有。",
+                    "link": ""
+                },
+                {
+                    "title": "EA颠覆《模拟人生》续作模式，整合为新平台",
+                    "image": "https://n.sinaimg.cn/spider20240918/716/w970h546/20240918/3d3f-bc757fac870a738af3f73391233d036a.png",
+                    "content": "EA宣布将整合《模拟人生 4》、《Project Rene》及其他两款游戏，创建一个综合性《模拟人生》平台，终止推出《模拟人生 5》。新游戏Project Rene将在今年秋季进行封闭多人测试，未来将与《模拟人生 4》共同构建《模拟人生》宇宙。EA娱乐与技术总裁Laura Miele在投资者会议中强调，将不再发布新版本，而是投资于这个新平台，四款游戏将共享创作者工具和社交网络。",
+                    "link": "https://finance.sina.com.cn/tech/digi/2024-09-18/doc-incpqeau8894887.shtml"
+                },
+                {
+                    "title": "VG Insights 数据显示《黑神话：悟空》Steam 首月销量 2000 万份，收入超 9.61 亿美元",
+                    "image": "https://img.ithome.com/newsuploadfiles/2024/9/240e0b31-d8ad-4297-9c89-dec9f5fda92f.jpg?x-bce-process=image/format,f_auto",
+                    "content": "《黑神话：悟空》发行平台除了 Steam 外还包括 WeGame、PlayStation 和 Epic 平台。游戏科学投资人吴旦表示，预计生命周期内全平台销量可能会达到 3000 万份，未来还将推出 DLC。发售一个月之后，《黑神话：悟空》仍热度不减，目前 Steam 好评率达 96.04％，24 小时内最高同时在线人数达 57w5940 人。",
+                    "link": "https://www.ithome.com/0/797/010.htm"
+                },
+                {
+                    "title": "炉石国服9月25日开放",
+                    "image": "https://img1.gamersky.com/upimg/pic/2024/09/24/small_202409241928374390.png",
+                    "content": "值得一提的是，国服回归补偿的 2154 张卡牌将会直接发放到玩家们的游戏账号，但由于技术方案限制，目前 2023 年标准模式所有卡牌无论获取方式，都只能分解为 1 奥术之尘。",
+                    "link": "https://www.gamersky.com/news/202409/1821091.shtml"
+                }
+                
+            ]
+        },
+        "finance": {
+            "id": "finance",
+            "name": "财经",
+            "articles": [
+                {
+                    "title": "美联储降息50个基点，开启降息周期",
+                    "image": "",
+                    "content": "美联储开启降息周期，将联邦基金利率下调50个基点至4.75%-5.00%，为2020年3月来首次降息。降息，利息降低，钱将重新进入市场，而不是存入银行，提高市场流通性。",
+                    "link": "https://flash.jin10.com/detail/20240919020008018800"
+                },
+                {
+                    "title": "央行行长潘功胜：降低存量房贷利率、统一房贷最低首付比例,降低存款利率。A股突破3000点，对国内房市巨大利好",
+                    "image": "",
+                    "content": "央行行长潘功胜：降低存量房贷利率和统一房贷最低首付比例，引导商业银行将存量房贷利率降至新发放房贷利率附近，预计平均降幅在0.5个百分点左右。统一首套房和二套房的房贷最低首付比例，将全国层面的二套房贷款最低首付比例由25%下调至15%。",
+                    "link": "https://weibo.com/2656274875/OyqHgkMae"
+                },
+                {
+                    "title": "扎克伯格财富突破2000亿美元，仅位居马斯克和贝索斯之后",
+                    "image": "",
+                    "content": "Meta 首席执行官马克・扎克伯格近日成为全球仅三名身价超过 2000 亿美元（当前约 1.4 万亿元人民币）的富豪之一，与特斯拉首席执行官埃隆・马斯克和亚马逊创始人杰夫・贝索斯并肩。扎克伯格的财富超越了其他科技巨头，包括甲骨文联合创始人拉里・埃利森以及前微软首席执行官比尔・盖茨和史蒂夫・鲍尔默。",
+                    "link": "https://weibo.com/1642634100/OyCAfsTn8"
+                }
+                
+            ]
+        }
+    }
+}
